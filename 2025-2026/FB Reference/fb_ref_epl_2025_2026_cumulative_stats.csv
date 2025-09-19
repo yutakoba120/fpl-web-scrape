@@ -1,498 +1,543 @@
 Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,team,player_link
-Ola Aina,ng NGA,DF,28-331,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.2,5.0,11.0,8.0,0.0,0.0,0.0,0.0,0.0,0.01,0.05,0.06,0.01,0.06,Matches,Nottingham Forest,/en/players/246d153b/Ola-Aina
-Elliot Anderson,eng ENG,MF,22-302,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,1.1,1.5,6.0,32.0,10.0,0.0,0.33,0.33,0.0,0.33,0.13,0.36,0.48,0.13,0.48,Matches,Nottingham Forest,/en/players/de31038e/Elliot-Anderson
-Nikola Milenković,rs SRB,DF,27-327,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Nottingham Forest,/en/players/bee704fc/Nikola-Milenkovic
-Murillo,br BRA,DF,23-062,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/1704b0b8/Murillo
-Matz Sels,be BEL,GK,33-190,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/834b5c4c/Matz-Sels
-Neco Williams,wls WAL,DF,24-144,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3,0.4,9.0,16.0,19.0,0.0,0.0,0.0,0.0,0.0,0.01,0.11,0.12,0.01,0.12,Matches,Nottingham Forest,/en/players/dd323728/Neco-Williams
-Ibrahim Sangaré,ci CIV,MF,27-276,3,3,265.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Nottingham Forest,/en/players/bced0375/Ibrahim-Sangare
-Morgan Gibbs-White,eng ENG,MF,25-220,3,3,254.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.3,0.9,7.0,25.0,31.0,0.0,0.35,0.35,0.0,0.35,0.23,0.1,0.33,0.23,0.33,Matches,Nottingham Forest,/en/players/32f60ed8/Morgan-Gibbs-White
-Callum Hudson-Odoi,eng ENG,FW,24-301,3,3,249.0,2.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.6,0.9,13.0,7.0,34.0,0.36,0.0,0.36,0.36,0.36,0.14,0.2,0.34,0.14,0.34,Matches,Nottingham Forest,/en/players/15f3ec41/Callum-Hudson-Odoi
-Chris Wood,nz NZL,FW,33-271,3,3,237.0,2.6,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.6,1.6,0.1,1.7,0.0,3.0,7.0,0.76,0.0,0.76,0.76,0.76,0.59,0.04,0.63,0.59,0.63,Matches,Nottingham Forest,/en/players/4e9a0555/Chris-Wood
-Dan Ndoye,ch SUI,FW,24-314,3,3,205.0,2.3,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.4,0.5,9.0,3.0,21.0,0.44,0.44,0.88,0.44,0.88,0.05,0.17,0.21,0.05,0.21,Matches,Nottingham Forest,/en/players/8e697a8f/Dan-Ndoye
-James Mcatee,eng ENG,"FW,MF",22-321,2,0,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.46,0.46,0.0,0.46,Matches,Nottingham Forest,/en/players/96593e89/James-Mcatee
-Igor Jesus,br BRA,FW,24-191,3,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.19,0.19,0.19,Matches,Nottingham Forest,/en/players/dbe24cce/Igor-Jesus
-Arnaud Kalimuendo,fr FRA,FW,23-227,2,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/bf4c41f9/Arnaud-Kalimuendo
-Jota Silva,pt POR,FW,26-034,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/4d77e622/Jota-Silva
-Omari Hutchinson,eng ENG,"FW,MF",21-309,2,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.65,0.0,1.65,1.65,1.65,Matches,Nottingham Forest,/en/players/bd9553e6/Omari-Hutchinson
-Ryan Yates,eng ENG,MF,27-287,2,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/c1fe2a48/Ryan-Yates
-Zach Abbott,eng ENG,DF,19-114,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/c103921a/Zach-Abbott
-Taiwo Awoniyi,ng NGA,FW,28-023,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/e5478b87/Taiwo-Awoniyi
-Willy Boly,ci CIV,DF,34-213,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/a4ac4b8f/Willy-Boly
-Jair Cunha,br BRA,DF,20-181,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/ac31d35e/Jair-Cunha
-Angus Gunn,sct SCO,GK,29-225,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/e082af5b/Angus-Gunn
-Douglas Luiz,br BRA,MF,27-118,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/6f7d826d/Douglas-Luiz
-Morato,br BRA,DF,24-066,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/0f41e2ee/Morato
-Squad Total,,,26.9,3,33,270.0,3.0,4.0,3.0,7.0,4.0,0.0,0.0,4.0,0.0,3.5,3.5,3.1,6.6,56.0,146.0,144.0,1.33,1.0,2.33,1.33,2.33,1.15,1.04,2.19,1.15,2.19,,Nottingham Forest,
-Opponent Total,,,26.1,3,33,270.0,3.0,5.0,3.0,8.0,3.0,2.0,2.0,5.0,0.0,4.9,3.4,3.2,6.6,49.0,79.0,79.0,1.67,1.0,2.67,1.0,2.0,1.64,1.07,2.72,1.14,2.21,,Nottingham Forest,
-Altay Bayındır,tr TUR,GK,27-143,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,Manchester United,/en/players/072e68ed/Altay-Bayindir
-Bruno Fernandes,pt POR,MF,30-361,3,3,270.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,1.9,0.3,0.7,1.0,6.0,22.0,5.0,0.33,0.0,0.33,0.0,0.0,0.63,0.23,0.86,0.11,0.34,Matches,Manchester United,/en/players/507c7bdf/Bruno-Fernandes
-Matthijs de Ligt,nl NED,DF,26-023,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2,0.5,1.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.1,0.07,0.17,0.1,0.17,Matches,Manchester United,/en/players/d6e53a3a/Matthijs-de-Ligt
-Bryan Mbeumo,cm CMR,MF,26-028,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.1,1.1,1.3,2.4,13.0,7.0,32.0,0.33,0.0,0.33,0.33,0.33,0.36,0.45,0.81,0.36,0.81,Matches,Manchester United,/en/players/6afaebf2/Bryan-Mbeumo
-Leny Yoro,fr FRA,DF,19-295,3,3,260.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,4.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.1,0.09,0.1,Matches,Manchester United,/en/players/6763f716/Leny-Yoro
-Luke Shaw,eng ENG,DF,30-054,3,3,255.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,5.0,16.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,Manchester United,/en/players/9c94165b/Luke-Shaw
-Matheus Cunha,br BRA,"FW,MF",26-100,3,3,210.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.2,1.0,8.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0,0.35,0.07,0.42,0.35,0.42,Matches,Manchester United,/en/players/dc62b55d/Matheus-Cunha
-Casemiro,br BRA,MF,33-193,3,3,187.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1,0.2,0.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.06,0.04,0.11,0.06,0.11,Matches,Manchester United,/en/players/4d224fe8/Casemiro
-Mason Mount,eng ENG,MF,26-237,3,3,177.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.4,0.6,3.0,12.0,7.0,0.0,0.0,0.0,0.0,0.0,0.09,0.19,0.29,0.09,0.29,Matches,Manchester United,/en/players/9674002f/Mason-Mount
-Diogo Dalot,pt POR,DF,26-170,3,2,183.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,10.0,6.0,19.0,0.0,0.49,0.49,0.0,0.49,0.01,0.37,0.38,0.01,0.38,Matches,Manchester United,/en/players/d9565625/Diogo-Dalot
-Patrick Dorgu,dk DEN,DF,20-313,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,5.0,13.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Manchester United,/en/players/e6536124/Patrick-Dorgu
-Amad Diallo,ci CIV,DF,23-055,3,2,177.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.1,0.9,14.0,9.0,15.0,0.0,0.0,0.0,0.0,0.0,0.41,0.06,0.46,0.41,0.46,Matches,Manchester United,/en/players/9dc96f10/Amad-Diallo
-Benjamin Šeško,si SVN,FW,22-096,3,0,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.4,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.42,0.07,0.48,0.42,0.48,Matches,Manchester United,/en/players/3260690c/Benjamin-Sesko
-Joshua Zirkzee,nl NED,"FW,MF",24-105,1,0,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0,0.7,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.97,0.07,1.04,0.97,1.04,Matches,Manchester United,/en/players/028e70b9/Joshua-Zirkzee
-Manuel Ugarte Ribeiro,uy URU,MF,24-146,2,0,48.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,2.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.05,0.06,0.11,0.05,0.11,Matches,Manchester United,/en/players/c9817014/Manuel-Ugarte-Ribeiro
-Kobbie Mainoo,eng ENG,MF,20-138,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.14,0.2,0.34,0.14,0.34,Matches,Manchester United,/en/players/c6220452/Kobbie-Mainoo
-Harry Maguire,eng ENG,DF,32-183,2,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.58,0.58,0.58,Matches,Manchester United,/en/players/d8931174/Harry-Maguire
-Noussair Mazraoui,ma MAR,DF,27-294,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester United,/en/players/b74277a0/Noussair-Mazraoui
-Ayden Heaven,eng ENG,DF,18-347,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester United,/en/players/64e17fab/Ayden-Heaven
-Tyler Fredricson,eng ENG,DF,20-193,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/58630379/Tyler-Fredricson
-Tom Heaton,eng ENG,GK,39-142,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/a6de6361/Tom-Heaton
-André Onana,cm CMR,GK,29-155,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/e9c0c1b2/Andre-Onana
-Squad Total,,,26.3,3,33,270.0,3.0,2.0,1.0,3.0,1.0,1.0,2.0,3.0,0.0,6.7,5.1,4.3,9.4,76.0,126.0,126.0,0.67,0.33,1.0,0.33,0.67,2.24,1.42,3.66,1.71,3.13,,Manchester United,
-Opponent Total,,,27.0,3,33,270.0,3.0,4.0,2.0,6.0,4.0,0.0,0.0,10.0,0.0,4.3,4.3,2.4,6.7,38.0,86.0,85.0,1.33,0.67,2.0,1.33,2.0,1.42,0.81,2.23,1.42,2.23,,Manchester United,
-Tyrone Mings,eng ENG,DF,32-175,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,0.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.04,0.02,0.06,0.04,0.06,Matches,Aston Villa,/en/players/8397a50c/Tyrone-Mings
-Morgan Rogers,eng ENG,"FW,MF",23-040,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.3,0.4,3.0,11.0,21.0,0.0,0.0,0.0,0.0,0.0,0.05,0.09,0.14,0.05,0.14,Matches,Aston Villa,/en/players/2e5915f1/Morgan-Rogers
-Youri Tielemans,be BEL,MF,28-120,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,7.0,18.0,10.0,0.0,0.0,0.0,0.0,0.0,0.04,0.06,0.1,0.04,0.1,Matches,Aston Villa,/en/players/56f7a928/Youri-Tielemans
-Ollie Watkins,eng ENG,FW,29-248,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,1.1,0.3,1.4,8.0,5.0,19.0,0.0,0.0,0.0,0.0,0.0,0.37,0.1,0.47,0.37,0.47,Matches,Aston Villa,/en/players/aed3a70f/Ollie-Watkins
-Matty Cash,pl POL,DF,28-028,3,3,253.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2,0.3,3.0,11.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,Aston Villa,/en/players/2389cdc2/Matty-Cash
-John McGinn,sct SCO,"FW,MF",30-321,3,3,229.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,4.0,7.0,13.0,0.0,0.0,0.0,0.0,0.0,0.02,0.26,0.28,0.02,0.28,Matches,Aston Villa,/en/players/90f91999/John-McGinn
-Marco Bizot,nl NED,GK,34-178,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/3d214e5f/Marco-Bizot
-Lucas Digne,fr FRA,DF,32-046,3,2,161.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/1b84dbe1/Lucas-Digne
-Ezri Konsa,eng ENG,DF,27-316,2,2,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Aston Villa,/en/players/0313a347/Ezri-Konsa
-Amadou Onana,be BEL,MF,24-019,2,2,153.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,2.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,Aston Villa,/en/players/828657ff/Amadou-Onana
-Boubacar Kamara,fr FRA,"MF,DF",25-285,2,2,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Aston Villa,/en/players/cc77354e/Boubacar-Kamara
-Donyell Malen,nl NED,"FW,MF",26-238,3,1,116.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,Aston Villa,/en/players/116c35df/Donyell-Malen
-Ian Maatsen,nl NED,DF,23-178,2,1,110.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,2.0,7.0,11.0,0.0,0.0,0.0,0.0,0.0,0.12,0.14,0.26,0.12,0.26,Matches,Aston Villa,/en/players/cab9634e/Ian-Maatsen
-Pau Torres,es ESP,DF,28-231,2,1,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,5.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Aston Villa,/en/players/532e1e4f/Pau-Torres
-Emiliano Martínez,ar ARG,GK,33-002,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/7956236f/Emiliano-Martinez
-Evann Guessand,ci CIV,"FW,MF",24-065,2,1,61.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,Aston Villa,/en/players/b73f17f8/Evann-Guessand
-Emi Buendía,ar ARG,MF,28-253,2,0,104.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.2,0.4,3.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.18,0.2,0.39,0.18,0.39,Matches,Aston Villa,/en/players/66b76d44/Emi-Buendia
-Lamare Bogarde,nl NED,MF,21-242,2,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/bca5c4a7/Lamare-Bogarde
-Bradley Paul Burrowes,eng ENG,DF,17-184,1,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/802ee5ca/Bradley-Paul-Burrowes
-Samuel Iling-Junior,eng ENG,DF,21-335,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/ba492306/Samuel-Iling-Junior
-Jamaldeen Jimoh,eng ENG,MF,18-337,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/1e711234/Jamaldeen-Jimoh
-Travis Patterson,eng ENG,DF,19-333,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/e0b5d31b/Travis-Patterson
-Sam Proctor,eng ENG,GK,18-257,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/b96cec48/Sam-Proctor
-Triston Rowe,eng ENG,DF,19-109,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/3fcc22d5/Triston-Rowe
-James Wright,eng ENG,GK,20-276,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/9417a430/James-Wright
-Squad Total,,,28.5,3,33,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,2.5,2.5,2.2,4.6,46.0,134.0,131.0,0.0,0.0,0.0,0.0,0.0,0.83,0.72,1.55,0.83,1.55,,Aston Villa,
-Opponent Total,,,26.9,3,33,270.0,3.0,4.0,1.0,5.0,3.0,1.0,1.0,5.0,0.0,5.3,4.5,4.1,8.6,48.0,91.0,90.0,1.33,0.33,1.67,1.0,1.33,1.76,1.37,3.13,1.49,2.86,,Aston Villa,
-Dan Burn,eng ENG,DF,33-118,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.0,0.02,Matches,Newcastle United,/en/players/b2d31e83/Dan-Burn
-Bruno Guimarães,br BRA,MF,27-292,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,3.0,22.0,7.0,0.33,0.0,0.33,0.33,0.33,0.06,0.01,0.06,0.06,0.06,Matches,Newcastle United,/en/players/82518f62/Bruno-Guimaraes
-Valentino Livramento,eng ENG,DF,22-296,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,6.0,11.0,20.0,0.0,0.33,0.33,0.0,0.33,0.0,0.07,0.07,0.0,0.07,Matches,Newcastle United,/en/players/afed6722/Valentino-Livramento
-Nick Pope,eng ENG,GK,33-138,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle United,/en/players/4b40d9ca/Nick-Pope
-Fabian Schär,ch SUI,DF,33-258,3,3,260.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,3.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.03,0.01,0.04,0.03,0.04,Matches,Newcastle United,/en/players/c8aa95da/Fabian-Schar
-Sandro Tonali,it ITA,MF,25-119,3,3,245.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.6,0.7,8.0,20.0,7.0,0.0,0.0,0.0,0.0,0.0,0.03,0.23,0.26,0.03,0.26,Matches,Newcastle United,/en/players/0db169ae/Sandro-Tonali
-Kieran Trippier,eng ENG,DF,34-350,3,3,225.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,18.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Newcastle United,/en/players/21512407/Kieran-Trippier
-Anthony Elanga,se SWE,FW,23-130,3,2,196.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.3,0.9,9.0,2.0,21.0,0.0,0.0,0.0,0.0,0.0,0.26,0.14,0.4,0.26,0.4,Matches,Newcastle United,/en/players/2fba6108/Anthony-Elanga
-Harvey Barnes,eng ENG,FW,27-269,3,2,187.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.7,0.9,11.0,9.0,16.0,0.0,0.0,0.0,0.0,0.0,0.13,0.32,0.45,0.13,0.45,Matches,Newcastle United,/en/players/3ea50f67/Harvey-Barnes
-Joelinton,br BRA,MF,29-021,2,2,157.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,7.0,5.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Newcastle United,/en/players/c17bfb65/Joelinton
-Anthony Gordon,eng ENG,FW,24-192,2,2,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.1,1.1,0.1,1.2,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.72,0.06,0.78,0.72,0.78,Matches,Newcastle United,/en/players/2bd83368/Anthony-Gordon
-William Osula,dk DEN,FW,22-031,3,1,106.0,1.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,1.0,9.0,0.85,0.0,0.85,0.85,0.85,0.34,0.0,0.34,0.34,0.34,Matches,Newcastle United,/en/players/7b355808/William-Osula
-Jacob Murphy,eng ENG,FW,30-192,2,1,74.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,3.0,2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,Newcastle United,/en/players/de112b84/Jacob-Murphy
-Sven Botman,nl NED,DF,25-235,1,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle United,/en/players/ccce7025/Sven-Botman
-Jacob Ramsey,eng ENG,MF,24-099,2,1,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,3.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.04,0.42,0.46,0.04,0.46,Matches,Newcastle United,/en/players/1544f145/Jacob-Ramsey
-Lewis Miley,eng ENG,MF,19-126,3,0,78.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.02,0.04,0.06,0.02,0.06,Matches,Newcastle United,/en/players/2c6835e5/Lewis-Miley
-Lewis Hall,eng ENG,DF,20-361,2,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Newcastle United,/en/players/da011f18/Lewis-Hall
-Malick Thiaw,de GER,DF,24-027,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle United,/en/players/ff5ea0bf/Malick-Thiaw
-Emil Krafth,se SWE,DF,31-033,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/77cf6852/Emil-Krafth
-Jamaal Lascelles,eng ENG,DF,31-297,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/450ab6fc/Jamaal-Lascelles
-Aaron Ramsdale,eng ENG,GK,27-113,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/466fb2c5/Aaron-Ramsdale
-Park Seungsoo,kr KOR,MF,18-171,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/b6aabcf8/Park-Seungsoo
-Joe Willock,eng ENG,MF,26-015,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/a3b03921/Joe-Willock
-Squad Total,,,28.2,3,33,270.0,3.0,2.0,1.0,3.0,2.0,0.0,0.0,4.0,1.0,2.9,2.9,2.3,5.2,59.0,128.0,125.0,0.67,0.33,1.0,0.67,1.0,0.96,0.77,1.73,0.96,1.73,,Newcastle United,
-Opponent Total,,,27.3,3,33,270.0,3.0,3.0,3.0,6.0,3.0,0.0,0.0,5.0,1.0,1.6,1.6,1.5,3.1,39.0,102.0,101.0,1.0,1.0,2.0,1.0,2.0,0.52,0.51,1.04,0.52,1.04,,Newcastle United,
-Trai Hume,nir NIR,DF,23-170,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,3.0,12.0,13.0,0.0,0.0,0.0,0.0,0.0,0.02,0.03,0.06,0.02,0.06,Matches,Sunderland,/en/players/4fa3a3a4/Trai-Hume
-Reinildo Mandava,mz MOZ,DF,31-226,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,14.0,7.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Sunderland,/en/players/c20bdcd7/Reinildo-Mandava
-Robin Roefs,nl NED,GK,22-230,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/349fa918/Robin-Roefs
-Noah Sadiki,cd COD,MF,20-261,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,6.0,9.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Sunderland,/en/players/645481cc/Noah-Sadiki
-Granit Xhaka,ch SUI,MF,32-342,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,2.0,20.0,3.0,0.0,0.33,0.33,0.0,0.33,0.02,0.08,0.09,0.02,0.09,Matches,Sunderland,/en/players/e61b8aee/Granit-Xhaka
-Habib Diarra,sn SEN,MF,21-244,3,3,255.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6,0.6,0.0,0.6,9.0,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.2,0.01,0.21,0.2,0.21,Matches,Sunderland,/en/players/6d0fe035/Habib-Diarra
-Chemsdine Talbi,be BEL,FW,20-118,3,3,215.0,2.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.4,1.0,3.0,18.0,0.0,0.42,0.42,0.0,0.42,0.13,0.04,0.17,0.13,0.17,Matches,Sunderland,/en/players/47ce793b/Chemsdine-Talbi
-Eliezer Mayenda,es ESP,FW,20-119,3,3,201.0,2.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.3,0.7,2.0,0.0,5.0,0.45,0.0,0.45,0.45,0.45,0.18,0.11,0.29,0.18,0.29,Matches,Sunderland,/en/players/6a021e43/Eliezer-Mayenda
-Omar Alderete,py PAR,DF,28-252,3,2,218.0,2.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,5.0,13.0,0.0,0.0,0.41,0.41,0.0,0.41,0.04,0.02,0.06,0.04,0.06,Matches,Sunderland,/en/players/bb08bce9/Omar-Alderete
-Simon Adingra,ci CIV,FW,23-246,3,2,163.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.3,0.4,4.0,2.0,20.0,0.0,0.0,0.0,0.0,0.0,0.08,0.17,0.24,0.08,0.24,Matches,Sunderland,/en/players/4dcec659/Simon-Adingra
-Daniel Ballard,nir NIR,DF,25-347,2,2,98.0,1.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.2,0.2,0.3,0.5,0.0,1.0,0.0,0.92,0.0,0.92,0.92,0.92,0.17,0.28,0.45,0.17,0.45,Matches,Sunderland,/en/players/38f300f3/Daniel-Ballard
-Jenson Seelt,nl NED,DF,22-104,2,1,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/ec75ee25/Jenson-Seelt
-Enzo Le Fée,fr FRA,"FW,MF",25-213,3,1,133.0,1.5,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.8,0.0,0.2,0.2,2.0,3.0,14.0,0.68,0.0,0.68,0.0,0.0,0.56,0.14,0.7,0.03,0.17,Matches,Sunderland,/en/players/6f806d99/Enzo-Le-Fee
-Nordi Mukiele,fr FRA,DF,27-307,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Sunderland,/en/players/ac73ec79/Nordi-Mukiele
-Wilson Isidor,fr FRA,FW,25-008,3,0,69.0,0.8,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,1.0,2.0,4.0,2.61,0.0,2.61,2.61,2.61,0.37,0.0,0.37,0.37,0.37,Matches,Sunderland,/en/players/a671316d/Wilson-Isidor
-Patrick Roberts,eng ENG,"MF,FW",28-211,1,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Sunderland,/en/players/59d93937/Patrick-Roberts
-Marc Guiu,es ESP,FW,19-243,2,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,Sunderland,/en/players/d3d774cc/Marc-Guiu
-Chris Rigg,eng ENG,FW,18-078,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/35741fe2/Chris-Rigg
-Harrison Jones,eng ENG,MF,20-253,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/2a78981b/Harrison-Jones
-Arthur Masuaku,cd COD,"DF,MF",31-301,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/57df7a11/Arthur-Masuaku
-Dan Neil,eng ENG,MF,23-265,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/a47ad0f5/Dan-Neil
-Anthony Patterson,eng ENG,GK,25-117,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/b2470c6f/Anthony-Patterson
-Squad Total,,,24.9,3,33,270.0,3.0,5.0,3.0,8.0,4.0,1.0,1.0,4.0,0.0,3.0,2.3,1.7,3.9,46.0,111.0,111.0,1.67,1.0,2.67,1.33,2.33,1.02,0.55,1.57,0.75,1.31,,Sunderland,
-Opponent Total,,,26.7,3,33,270.0,3.0,3.0,3.0,6.0,3.0,0.0,1.0,3.0,0.0,2.8,2.0,1.8,3.7,37.0,113.0,111.0,1.0,1.0,2.0,1.0,2.0,0.92,0.58,1.5,0.65,1.24,,Sunderland,
-Gabriel Magalhães,br BRA,DF,27-259,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,4.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Arsenal,/en/players/67ac5bb8/Gabriel-Magalhaes
-David Raya,es ESP,GK,29-354,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Arsenal,/en/players/98ea5115/David-Raya
-Martín Zubimendi,es ESP,MF,26-214,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Arsenal,/en/players/3ee0dd59/Martin-Zubimendi
-Declan Rice,eng ENG,MF,26-233,3,3,262.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.7,5.0,10.0,1.0,0.0,0.34,0.34,0.0,0.34,0.05,0.18,0.23,0.05,0.23,Matches,Arsenal,/en/players/1c7012b8/Declan-Rice
-Viktor Gyökeres,se SWE,FW,27-092,3,3,239.0,2.7,2.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.3,0.5,0.1,0.6,1.0,0.0,16.0,0.75,0.0,0.75,0.38,0.38,0.48,0.05,0.53,0.19,0.23,Matches,Arsenal,/en/players/4d5a9185/Viktor-Gyokeres
-Riccardo Calafiori,it ITA,DF,23-108,3,3,224.0,2.5,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,1.4,1.4,0.5,1.9,6.0,8.0,12.0,0.4,0.8,1.21,0.4,1.21,0.57,0.18,0.76,0.57,0.76,Matches,Arsenal,/en/players/aded8e6f/Riccardo-Calafiori
-William Saliba,fr FRA,DF,24-164,3,3,184.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/972aeb2a/William-Saliba
-Noni Madueke,eng ENG,FW,23-178,3,2,182.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.3,9.0,5.0,19.0,0.0,0.0,0.0,0.0,0.0,0.07,0.06,0.13,0.07,0.13,Matches,Arsenal,/en/players/bf34eebd/Noni-Madueke
-Jurriën Timber,nl NED,DF,24-079,3,2,173.0,1.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.8,0.8,0.2,1.0,4.0,11.0,5.0,1.04,0.52,1.56,1.04,1.56,0.43,0.09,0.52,0.43,0.52,Matches,Arsenal,/en/players/41034650/Jurrien-Timber
-Martin Ødegaard,no NOR,MF,26-261,3,2,148.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.3,8.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,0.18,0.09,0.18,Matches,Arsenal,/en/players/79300479/Martin-Odegaard
-Bukayo Saka,eng ENG,FW,23-364,2,2,142.0,1.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.4,5.0,2.0,15.0,0.63,0.0,0.63,0.63,0.63,0.16,0.07,0.23,0.16,0.23,Matches,Arsenal,/en/players/bc7dc64d/Bukayo-Saka
-Gabriel Martinelli,br BRA,FW,24-078,2,2,128.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.02,0.03,0.04,0.02,0.04,Matches,Arsenal,/en/players/48a5a5d6/Gabriel-Martinelli
-Mikel Merino,es ESP,MF,29-074,2,1,77.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/d080ed5e/Mikel-Merino
-Ben White,eng ENG,DF,27-331,1,1,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.06,0.07,0.02,0.07,Matches,Arsenal,/en/players/35e413f1/Ben-White
-Cristhian Mosquera,es ESP,DF,21-069,2,0,113.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/dc1ce4f5/Cristhian-Mosquera
-Ethan Nwaneri,eng ENG,MF,18-167,1,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Arsenal,/en/players/7f94982c/Ethan-Nwaneri
-Myles Lewis-Skelly,eng ENG,DF,18-343,2,0,46.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/5dff6c28/Myles-Lewis-Skelly
-Leandro Trossard,be BEL,FW,30-274,1,0,38.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.17,0.1,0.28,0.17,0.28,Matches,Arsenal,/en/players/38ceb24a/Leandro-Trossard
-Kai Havertz,de GER,FW,26-085,1,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/fed7cb61/Kai-Havertz
-Max Dowman,eng ENG,FW,15-247,2,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,4.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.43,0.43,0.43,Matches,Arsenal,/en/players/9008bb70/Max-Dowman
-Eberechi Eze,eng ENG,FW,27-067,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/ae4fc6a4/Eberechi-Eze
-Andre Annous,eng ENG,FW,17-251,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/2d14071d/Andre-Annous
-Kepa Arrizabalaga,es ESP,GK,30-336,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/28d596a0/Kepa-Arrizabalaga
-Jakub Kiwior,pl POL,"DF,MF",25-201,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/dc3e663e/Jakub-Kiwior
-Squad Total,,,25.7,3,33,270.0,3.0,6.0,4.0,10.0,5.0,1.0,1.0,6.0,0.0,4.4,3.6,1.7,5.4,62.0,95.0,93.0,2.0,1.33,3.33,1.67,3.0,1.48,0.58,2.05,1.22,1.79,,Arsenal,
-Opponent Total,,,26.5,3,33,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,2.2,2.2,1.7,3.8,56.0,85.0,85.0,0.33,0.0,0.33,0.33,0.33,0.73,0.55,1.28,0.73,1.28,,Arsenal,
-Lewis Dunk,eng ENG,DF,33-287,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Brighton and Hove Albion,/en/players/282f75f3/Lewis-Dunk
-Jan Paul van Hecke,nl NED,DF,25-088,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.0,0.3,3.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,Brighton and Hove Albion,/en/players/4fd08daa/Jan-Paul-van-Hecke
-Bart Verbruggen,nl NED,GK,23-017,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Brighton and Hove Albion,/en/players/cf134113/Bart-Verbruggen
-Kaoru Mitoma,jp JPN,FW,28-107,3,3,262.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,1.0,1.3,9.0,7.0,20.0,0.0,0.34,0.34,0.0,0.34,0.1,0.34,0.44,0.1,0.44,Matches,Brighton and Hove Albion,/en/players/74618572/Kaoru-Mitoma
-Yankuba Minteh,gm GAM,FW,21-044,3,3,247.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,1.0,1.3,14.0,3.0,19.0,0.0,0.0,0.0,0.0,0.0,0.13,0.35,0.48,0.13,0.48,Matches,Brighton and Hove Albion,/en/players/c3cf087d/Yankuba-Minteh
-Maxim De Cuyper,be BEL,DF,24-256,3,3,246.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,1.0,10.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Brighton and Hove Albion,/en/players/d494882e/Maxim-De-Cuyper
-Carlos Baleba,cm CMR,MF,21-244,3,3,172.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.03,0.01,0.03,Matches,Brighton and Hove Albion,/en/players/a1390d2f/Carlos-Baleba
-Yasin Ayari,se SWE,MF,21-333,3,2,186.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.2,0.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0,0.07,0.02,0.1,0.07,0.1,Matches,Brighton and Hove Albion,/en/players/f173303a/Yasin-Ayari
-Matt O'Riley,dk DEN,MF,24-287,2,2,177.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.2,0.4,0.2,0.6,0.0,5.0,11.0,0.51,0.0,0.51,0.0,0.0,0.61,0.1,0.72,0.21,0.32,Matches,Brighton and Hove Albion,/en/players/fb495bb8/Matt-ORiley
-Mats Wieffer,nl NED,DF,25-292,2,2,174.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Brighton and Hove Albion,/en/players/4876c9ab/Mats-Wieffer
-Danny Welbeck,eng ENG,FW,34-282,3,2,172.0,1.9,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.6,0.8,0.1,0.8,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.82,0.03,0.84,0.4,0.43,Matches,Brighton and Hove Albion,/en/players/ce5143da/Danny-Welbeck
-Diego Gómez,py PAR,MF,22-161,3,1,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3,0.3,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02,0.26,0.29,0.02,0.29,Matches,Brighton and Hove Albion,/en/players/916728da/Diego-Gomez
-Jack Hinshelwood,eng ENG,MF,20-146,2,1,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/e98211e7/Jack-Hinshelwood
-Georginio Rutter,fr FRA,FW,23-137,2,1,98.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.2,3.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.12,0.02,0.15,0.12,0.15,Matches,Brighton and Hove Albion,/en/players/c64c01fc/Georginio-Rutter
-Joël Veltman,nl NED,DF,33-232,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/dad4b285/Joel-Veltman
-Ferdi Kadioglu,tr TUR,"DF,FW",25-332,2,0,46.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/66c52a77/Ferdi-Kadioglu
-Brajan Gruda,de GER,"MF,FW",21-096,3,0,44.0,0.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.2,1.2,0.1,1.3,3.0,0.0,5.0,2.05,0.0,2.05,2.05,2.05,2.36,0.26,2.62,2.36,2.62,Matches,Brighton and Hove Albion,/en/players/ae9b998d/Brajan-Gruda
-James Milner,eng ENG,MF,39-243,2,0,34.0,0.4,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.8,0.0,0.0,0.0,1.0,1.0,0.0,2.65,0.0,2.65,0.0,0.0,2.09,0.0,2.09,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/2f90f6b8/James-Milner
-Diego Coppola,it ITA,DF,21-250,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/22ae86f9/Diego-Coppola
-Olivier Boscagli,fr FRA,DF,27-290,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brighton and Hove Albion,/en/players/403f5d20/Olivier-Boscagli
-Jason Steele,eng ENG,GK,35-017,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brighton and Hove Albion,/en/players/28300a16/Jason-Steele
-Squad Total,,,25.9,3,33,270.0,3.0,3.0,1.0,4.0,1.0,2.0,3.0,8.0,0.0,6.1,3.8,3.0,6.8,42.0,85.0,85.0,1.0,0.33,1.33,0.33,0.67,2.03,0.99,3.01,1.27,2.26,,Brighton and Hove Albion,
-Opponent Total,,,27.5,3,33,270.0,3.0,4.0,3.0,7.0,4.0,0.0,0.0,9.0,0.0,4.1,4.1,3.4,7.5,53.0,95.0,95.0,1.33,1.0,2.33,1.33,2.33,1.38,1.13,2.51,1.38,2.51,,Brighton and Hove Albion,
-Lucas Perri,br BRA,GK,27-268,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/5dbd461a/Lucas-Perri
-Joe Rodon,wls WAL,DF,27-317,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/8d62d31a/Joe-Rodon
-Anton Stach,de GER,MF,26-293,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.7,1.1,7.0,19.0,7.0,0.0,0.0,0.0,0.0,0.0,0.14,0.22,0.36,0.14,0.36,Matches,Leeds United,/en/players/0f59a7bf/Anton-Stach
-Pascal Struijk,nl NED,DF,26-024,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.01,0.08,0.07,0.08,Matches,Leeds United,/en/players/f4d296e4/Pascal-Struijk
-Jayden Bogle,eng ENG,DF,25-039,3,3,262.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1,0.2,9.0,8.0,9.0,0.0,0.0,0.0,0.0,0.0,0.04,0.02,0.06,0.04,0.06,Matches,Leeds United,/en/players/ae5019e6/Jayden-Bogle
-Gabriel Gudmundsson,se SWE,DF,26-128,3,3,259.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.3,0.5,7.0,8.0,11.0,0.0,0.0,0.0,0.0,0.0,0.06,0.11,0.17,0.06,0.17,Matches,Leeds United,/en/players/d5d22a58/Gabriel-Gudmundsson
-Daniel James,wls WAL,FW,27-298,3,3,201.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.3,0.7,7.0,5.0,15.0,0.0,0.0,0.0,0.0,0.0,0.19,0.12,0.32,0.19,0.32,Matches,Leeds United,/en/players/c931d9f9/Daniel-James
-Wilfried Gnonto,it ITA,FW,21-303,3,3,190.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1,0.3,4.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,0.08,0.04,0.12,0.08,0.12,Matches,Leeds United,/en/players/75fdd638/Wilfried-Gnonto
-Ilia Gruev,bg BUL,MF,25-121,3,2,193.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/1fc4f3d1/Ilia-Gruev
-Ao Tanaka,jp JPN,MF,26-359,2,2,146.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,1.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.06,0.07,0.13,0.06,0.13,Matches,Leeds United,/en/players/1d36d6b6/Ao-Tanaka
-Joël Piroe,nl NED,FW,26-033,2,2,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,Leeds United,/en/players/1f0072a6/Joel-Piroe
-Sean Longstaff,eng ENG,MF,27-309,3,1,124.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Leeds United,/en/players/a2b105e0/Sean-Longstaff
-Lukas Nmecha,de GER,FW,26-264,3,1,115.0,1.3,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.9,0.2,0.0,0.2,1.0,1.0,6.0,0.78,0.0,0.78,0.0,0.0,0.71,0.0,0.71,0.14,0.14,Matches,Leeds United,/en/players/0cc5f4a5/Lukas-Nmecha
-Ethan Ampadu,wls WAL,MF,24-355,1,1,77.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/10b9fa99/Ethan-Ampadu
-Brenden Aaronson,us USA,FW,24-317,3,0,80.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,2.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.27,0.0,0.27,Matches,Leeds United,/en/players/5bc43860/Brenden-Aaronson
-Jack Harrison,eng ENG,FW,28-288,2,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/aa849a12/Jack-Harrison
-Noah Okafor,ch SUI,FW,25-103,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/ca607d59/Noah-Okafor
-Dominic Calvert-Lewin,eng ENG,FW,28-172,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.3,0.3,0.3,Matches,Leeds United,/en/players/59e6e5bf/Dominic-Calvert-Lewin
-James Justin,eng ENG,DF,27-193,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/fb614c44/James-Justin
-Sam Byram,eng ENG,DF,31-353,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/1bf811d4/Sam-Byram
-Jaka Bijol,si SVN,"DF,MF",26-211,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/6fdac234/Jaka-Bijol
-Sebastiaan Bornauw,be BEL,DF,26-166,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/01834aa0/Sebastiaan-Bornauw
-Karl Darlow,wls WAL,GK,34-331,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/cde3309f/Karl-Darlow
-Largie Ramazani,be BEL,"FW,MF",24-189,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/cc9256ef/Largie-Ramazani
-Squad Total,,,26.3,3,33,270.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,3.0,0.0,2.9,2.2,1.8,4.0,44.0,83.0,83.0,0.33,0.0,0.33,0.0,0.0,0.96,0.6,1.55,0.72,1.32,,Leeds United,
-Opponent Total,,,27.0,3,33,270.0,3.0,5.0,4.0,9.0,4.0,1.0,1.0,3.0,0.0,3.9,3.1,1.9,5.0,53.0,123.0,121.0,1.67,1.33,3.0,1.33,2.67,1.29,0.64,1.93,1.03,1.67,,Leeds United,
-Alisson,br BRA,GK,32-337,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/7a2e46a8/Alisson
-Dominik Szoboszlai,hu HUN,"DF,MF",24-314,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,5.0,15.0,6.0,0.33,0.0,0.33,0.33,0.33,0.04,0.07,0.11,0.04,0.11,Matches,Liverpool,/en/players/934e1968/Dominik-Szoboszlai
-Virgil van Dijk,nl NED,DF,34-058,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,3.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Liverpool,/en/players/e06683ca/Virgil-van-Dijk
-Cody Gakpo,nl NED,FW,26-120,3,3,269.0,3.0,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.8,1.2,10.0,6.0,18.0,0.33,0.67,1.0,0.33,1.0,0.1,0.28,0.38,0.1,0.38,Matches,Liverpool,/en/players/1971591f/Cody-Gakpo
-Mohamed Salah,eg EGY,FW,33-081,3,3,269.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.5,0.8,9.0,9.0,31.0,0.33,0.33,0.67,0.33,0.67,0.11,0.17,0.27,0.11,0.27,Matches,Liverpool,/en/players/e342ad68/Mohamed-Salah
-Ibrahima Konaté,fr FRA,DF,26-102,3,3,258.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/5ed9b537/Ibrahima-Konate
-Florian Wirtz,de GER,MF,22-124,3,3,248.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.4,0.7,4.0,14.0,15.0,0.0,0.0,0.0,0.0,0.0,0.14,0.13,0.27,0.14,0.27,Matches,Liverpool,/en/players/e7fcf289/Florian-Wirtz
-Milos Kerkez,hu HUN,DF,21-301,3,3,239.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/0ad53bdc/Milos-Kerkez
-Hugo Ekitike,fr FRA,FW,23-076,3,3,228.0,2.5,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,1.3,1.3,0.3,1.6,4.0,6.0,12.0,0.79,0.39,1.18,0.79,1.18,0.53,0.1,0.63,0.53,0.63,Matches,Liverpool,/en/players/5b92d896/Hugo-Ekitike
-Ryan Gravenberch,nl NED,MF,23-111,2,2,180.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.1,1.0,6.0,2.0,0.5,0.0,0.5,0.5,0.5,0.02,0.02,0.04,0.02,0.04,Matches,Liverpool,/en/players/b8e740fb/Ryan-Gravenberch
-Alexis Mac Allister,ar ARG,MF,26-254,2,2,131.0,1.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.7,0.8,2.0,7.0,4.0,0.0,0.69,0.69,0.0,0.69,0.06,0.49,0.55,0.06,0.55,Matches,Liverpool,/en/players/83d074ff/Alexis-Mac-Allister
-Curtis Jones,eng ENG,MF,24-217,3,1,138.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Liverpool,/en/players/4fb9c88f/Curtis-Jones
-Jeremie Frimpong,nl NED,DF,24-268,1,1,59.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Liverpool,/en/players/74f2e748/Jeremie-Frimpong
-Wataru Endo,jp JPN,"MF,DF",32-207,3,0,34.0,0.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,1.0,1.0,0.0,0.0,2.65,2.65,0.0,2.65,0.0,0.29,0.29,0.0,0.29,Matches,Liverpool,/en/players/c149016b/Wataru-Endo
-Federico Chiesa,it ITA,FW,27-314,3,0,32.0,0.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,2.0,1.0,1.0,2.81,0.0,2.81,2.81,2.81,0.79,0.0,0.79,0.79,0.79,Matches,Liverpool,/en/players/b0f7e36c/Federico-Chiesa
-Joe Gomez,eng ENG,DF,28-104,2,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/7a11550b/Joe-Gomez
-Andrew Robertson,sct SCO,DF,31-177,1,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/2e4f5f03/Andrew-Robertson
-Conor Bradley,nir NIR,DF,22-057,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/bbd67769/Conor-Bradley
-Harvey Elliott,eng ENG,"MF,FW",22-153,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/b9e1436c/Harvey-Elliott
-Rio Ngumoha,eng ENG,FW,17-006,1,0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,0.0,2.0,90.0,0.0,90.0,90.0,90.0,31.98,0.0,31.98,31.98,31.98,Matches,Liverpool,/en/players/022eca88/Rio-Ngumoha
-Giovanni Leoni,it ITA,DF,18-257,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Liverpool,/en/players/570888ce/Giovanni-Leoni
-Giorgi Mamardashvili,ge GEO,GK,24-340,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Liverpool,/en/players/d4b73232/Giorgi-Mamardashvili
-Trey Nyoni,eng ENG,MF,18-066,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Liverpool,/en/players/1d3b3d77/Trey-Nyoni
-Squad Total,,,27.1,3,33,270.0,3.0,8.0,6.0,14.0,8.0,0.0,0.0,6.0,0.0,3.4,3.4,3.1,6.5,51.0,105.0,105.0,2.67,2.0,4.67,2.67,4.67,1.13,1.03,2.17,1.13,2.17,,Liverpool,
-Opponent Total,,,26.8,3,33,270.0,3.0,4.0,3.0,7.0,4.0,0.0,0.0,6.0,1.0,3.2,3.2,2.4,5.6,47.0,72.0,70.0,1.33,1.0,2.33,1.33,2.33,1.05,0.8,1.86,1.05,1.86,,Liverpool,
-Nathan Collins,ie IRL,DF,24-127,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Brentford,/en/players/a8c19eb8/Nathan-Collins
-Sepp van den Berg,nl NED,DF,23-258,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Brentford,/en/players/7bf9400b/Sepp-van-den-Berg
-Caoimhín Kelleher,ie IRL,GK,26-285,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/62d7ef38/Caoimhin-Kelleher
-Thiago,br BRA,FW,24-070,3,3,270.0,3.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.2,0.5,0.8,1.2,3.0,3.0,7.0,0.67,0.0,0.67,0.33,0.33,0.41,0.26,0.67,0.15,0.41,Matches,Brentford,/en/players/dc45ac24/Thiago
-Michael Kayode,it ITA,DF,21-056,3,3,264.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,3.0,7.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,Brentford,/en/players/e19660a8/Michael-Kayode
-Yehor Yarmoliuk,ua UKR,MF,21-187,3,3,258.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.04,0.01,0.05,0.04,0.05,Matches,Brentford,/en/players/907a5d7c/Yehor-Yarmoliuk
-Keane Lewis-Potter,eng ENG,"DF,FW",24-194,3,3,229.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Brentford,/en/players/41f08ac8/Keane-Lewis-Potter
-Kevin Schade,de GER,FW,23-281,3,2,212.0,2.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.3,0.1,0.3,3.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.44,0.03,0.47,0.11,0.14,Matches,Brentford,/en/players/52afb588/Kevin-Schade
-Mikkel Damsgaard,dk DEN,MF,25-063,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.4,0.5,6.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.03,0.21,0.24,0.03,0.24,Matches,Brentford,/en/players/215f3907/Mikkel-Damsgaard
-Dango Ouattara,bf BFA,FW,23-205,2,2,173.0,1.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.9,0.9,0.0,0.9,4.0,0.0,7.0,0.52,0.0,0.52,0.52,0.52,0.44,0.0,0.44,0.44,0.44,Matches,Brentford,/en/players/2f9e4435/Dango-Ouattara
-Jordan Henderson,eng ENG,MF,35-079,3,2,160.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Brentford,/en/players/935e6b8f/Jordan-Henderson
-Rico Henry,eng ENG,DF,28-058,3,1,113.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.2,7.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.02,0.1,0.13,0.02,0.13,Matches,Brentford,/en/players/8a3c1dc7/Rico-Henry
-Fabio Carvalho,pt POR,"FW,MF",23-005,2,1,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Brentford,/en/players/966e28d0/Fabio-Carvalho
-Mathias Jensen,dk DEN,MF,29-246,2,1,80.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.3,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,0.29,0.15,0.29,Matches,Brentford,/en/players/0f134faf/Mathias-Jensen
-Antoni Milambo,nl NED,MF,20-154,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/b05f4787/Antoni-Milambo
-Frank Onyeka,ng NGA,MF,27-246,3,0,64.0,0.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,2.0,1.0,1.0,0.0,1.41,1.41,0.0,1.41,0.0,0.17,0.17,0.0,0.17,Matches,Brentford,/en/players/2944f86f/Frank-Onyeka
-Aaron Hickey,sct SCO,"DF,FW",23-086,2,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/1780bb4a/Aaron-Hickey
-Kristoffer Ajer,no NOR,DF,27-140,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/a8c0acb7/Kristoffer-Ajer
-Benjamin Arthur,eng ENG,DF,19-330,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/093f0923/Benjamin-Arthur
-Myles Peart-Harris,eng ENG,MF,22-351,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/ea1a5662/Myles-Peart-Harris
-Ethan Pinnock,jm JAM,DF,32-098,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/e541326e/Ethan-Pinnock
-Mads Roerslev,dk DEN,"DF,MF",26-072,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/57c94db2/Mads-Roerslev
-Hákon Valdimarsson,is ISL,GK,23-326,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/57a34cf4/Hakon-Valdimarsson
-Squad Total,,,24.8,3,33,270.0,3.0,3.0,1.0,4.0,2.0,1.0,2.0,5.0,0.0,3.8,2.3,1.9,4.1,41.0,62.0,61.0,1.0,0.33,1.33,0.67,1.0,1.27,0.62,1.89,0.76,1.38,,Brentford,
-Opponent Total,,,26.9,3,33,270.0,3.0,5.0,3.0,8.0,4.0,1.0,1.0,6.0,0.0,4.5,3.7,3.2,6.9,61.0,128.0,127.0,1.67,1.0,2.67,1.33,2.33,1.51,1.06,2.57,1.25,2.31,,Brentford,
-Bafodé Diakité,fr FRA,DF,24-241,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Bournemouth,/en/players/1bfb6fef/Bafode-Diakite
-Đorđe Petrović,rs SRB,GK,25-331,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/0cf321c8/Djordje-Petrovic
-Antoine Semenyo,gh GHA,"MF,FW",25-240,3,3,270.0,3.0,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,1.8,1.8,0.3,2.1,9.0,12.0,18.0,0.67,0.33,1.0,0.67,1.0,0.6,0.1,0.7,0.6,0.7,Matches,Bournemouth,/en/players/efd2ec23/Antoine-Semenyo
-Marcos Senesi,ar ARG,DF,28-117,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,0.0,10.0,0.0,0.0,0.33,0.33,0.0,0.33,0.05,0.06,0.11,0.05,0.11,Matches,Bournemouth,/en/players/35141f4c/Marcos-Senesi
-Adrien Truffert,fr FRA,DF,23-288,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,9.0,15.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.16,0.0,0.16,Matches,Bournemouth,/en/players/5d0e0a1f/Adrien-Truffert
-Tyler Adams,us USA,MF,26-202,3,3,266.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0,0.1,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Bournemouth,/en/players/2b09d998/Tyler-Adams
-Evanilson,br BRA,FW,25-333,3,3,257.0,2.9,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.8,0.8,0.5,1.3,2.0,5.0,10.0,0.35,0.0,0.35,0.35,0.35,0.27,0.18,0.46,0.27,0.46,Matches,Bournemouth,/en/players/6f3cc2fe/Evanilson
-Marcus Tavernier,eng ENG,MF,26-166,3,3,247.0,2.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.8,0.8,0.2,1.0,5.0,12.0,17.0,0.36,0.0,0.36,0.36,0.36,0.3,0.07,0.37,0.3,0.37,Matches,Bournemouth,/en/players/5c0da4a4/Marcus-Tavernier
-David Brooks,wls WAL,"MF,FW",28-058,3,3,211.0,2.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.7,0.7,1.4,2.1,5.0,7.0,18.0,0.0,0.43,0.43,0.0,0.43,0.29,0.59,0.88,0.29,0.88,Matches,Bournemouth,/en/players/dc4cae05/David-Brooks
-Adam Smith,eng ENG,DF,34-128,3,3,204.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Bournemouth,/en/players/20b104bc/Adam-Smith
-Alex Scott,eng ENG,MF,22-014,3,3,200.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,4.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.05,0.1,0.15,0.05,0.15,Matches,Bournemouth,/en/players/104d0bb8/Alex-Scott
-James Hill,eng ENG,DF,23-237,3,0,69.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/69942fb3/James-Hill
-Ryan Christie,sct SCO,MF,30-194,2,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.04,0.13,0.1,0.13,Matches,Bournemouth,/en/players/26ce2263/Ryan-Christie
-Amine Adli,ma MAR,"FW,MF",25-117,2,0,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,Bournemouth,/en/players/dcfb17f4/Amine-Adli
-Justin Kluivert,nl NED,MF,26-122,2,0,23.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.44,0.2,0.64,0.44,0.64,Matches,Bournemouth,/en/players/4c3a6744/Justin-Kluivert
-Hamed Junior Traorè,ci CIV,MF,25-200,1,0,17.0,0.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,5.29,5.29,0.0,5.29,0.0,1.1,1.1,0.0,1.1,Matches,Bournemouth,/en/players/570bb4b9/Hamed-Junior-Traore
-Eli Junior Kroupi,fr FRA,"FW,MF",19-073,3,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/b2fe86e5/Eli-Junior-Kroupi
-Ben Winterburn,eng ENG,MF,21-000,1,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/ba31eee2/Ben-Winterburn
-Julian Araujo,mx MEX,DF,24-022,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/8f4541c2/Julian-Araujo
-Philip Billing,dk DEN,MF,29-085,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/d328a254/Philip-Billing
-Will Dennis,eng ENG,GK,25-056,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/d8edc4be/Will-Dennis
-Ben Doak,sct SCO,"FW,MF",19-297,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/733f1a7d/Ben-Doak
-Romain Faivre,fr FRA,"FW,MF",27-052,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/745ca0a3/Romain-Faivre
-Remy Rees-Dottin,eng ENG,FW,19-182,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/1db75ccb/Remy-Rees-Dottin
-Julio Soler,ar ARG,DF,20-200,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/98c8559a/Julio-Soler
-Squad Total,,,26.4,3,33,270.0,3.0,4.0,4.0,8.0,4.0,0.0,0.0,8.0,0.0,4.5,4.5,3.9,8.4,41.0,95.0,94.0,1.33,1.33,2.67,1.33,2.67,1.5,1.31,2.81,1.5,2.81,,Bournemouth,
-Opponent Total,,,26.9,3,33,270.0,3.0,4.0,3.0,7.0,4.0,0.0,0.0,7.0,1.0,2.9,2.9,2.4,5.3,46.0,102.0,101.0,1.33,1.0,2.33,1.33,2.33,0.95,0.81,1.76,0.95,1.76,,Bournemouth,
-Joachim Andersen,dk DEN,DF,29-096,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.7,0.9,2.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.07,0.23,0.3,0.07,0.3,Matches,Fulham,/en/players/e34fc66d/Joachim-Andersen
-Calvin Bassey,ng NGA,DF,25-247,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Fulham,/en/players/a36524bf/Calvin-Bassey
-Bernd Leno,de GER,GK,33-184,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,/en/players/2628fd2b/Bernd-Leno
-Saša Lukić,rs SRB,MF,29-022,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.6,0.6,5.0,7.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.19,0.0,0.19,Matches,Fulham,/en/players/c6e8cf1f/Sasa-Lukic
-Kenny Tete,nl NED,DF,29-330,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,4.0,14.0,4.0,0.0,0.0,0.0,0.0,0.0,0.02,0.04,0.06,0.02,0.06,Matches,Fulham,/en/players/77d7c96f/Kenny-Tete
-Sander Berge,no NOR,MF,27-202,3,3,245.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,2.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,Fulham,/en/players/d0b6129f/Sander-Berge
-Alex Iwobi,ng NGA,FW,29-124,3,3,238.0,2.6,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,1.0,1.2,19.0,21.0,16.0,0.0,0.38,0.38,0.0,0.38,0.04,0.4,0.44,0.04,0.44,Matches,Fulham,/en/players/6ca5ec4b/Alex-Iwobi
-Joshua King,eng ENG,MF,18-244,3,3,212.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,6.0,14.0,15.0,0.0,0.0,0.0,0.0,0.0,0.16,0.04,0.2,0.16,0.2,Matches,Fulham,/en/players/86109b3b/Joshua-King
-Rodrigo Muniz,br BRA,FW,24-123,3,2,153.0,1.7,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.6,0.6,0.1,0.6,0.0,1.0,2.0,0.59,0.0,0.59,0.59,0.59,0.33,0.04,0.37,0.33,0.37,Matches,Fulham,/en/players/a755db8c/Rodrigo-Muniz
-Timothy Castagne,be BEL,"FW,DF",29-273,3,2,127.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,1.0,3.0,10.0,0.0,0.0,0.0,0.0,0.0,0.27,0.06,0.33,0.27,0.33,Matches,Fulham,/en/players/197640fd/Timothy-Castagne
-Ryan Sessegnon,eng ENG,DF,25-109,2,2,127.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,4.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.11,0.11,0.0,0.11,Matches,Fulham,/en/players/6aa3e78b/Ryan-Sessegnon
-Harry Wilson,wls WAL,FW,28-166,3,1,150.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,3.0,2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Fulham,/en/players/c6dc9ecd/Harry-Wilson
-Raúl Jiménez,mx MEX,FW,34-122,3,1,117.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.31,0.0,0.31,0.31,0.31,Matches,Fulham,/en/players/b561db50/Raul-Jimenez
-Jorge Cuenca,es ESP,DF,25-291,1,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,/en/players/0abc51f2/Jorge-Cuenca
-Emile Smith Rowe,eng ENG,"MF,FW",25-038,3,0,58.0,0.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.8,0.8,0.0,0.8,1.0,2.0,6.0,1.55,0.0,1.55,1.55,1.55,1.23,0.04,1.27,1.23,1.27,Matches,Fulham,/en/players/17695062/Emile-Smith-Rowe
-Antonee Robinson,us USA,DF,28-027,2,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Fulham,/en/players/289601e6/Antonee-Robinson
-Adama Traoré,es ESP,FW,29-222,2,0,32.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,Fulham,/en/players/9a28eba4/Adama-Traore
-Tom Cairney,sct SCO,MF,34-227,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,/en/players/a8748947/Tom-Cairney
-Issa Diop,fr FRA,DF,28-238,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/a712ca2b/Issa-Diop
-Benjamin Lecomte,fr FRA,GK,34-131,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/2fa2a875/Benjamin-Lecomte
-Andreas Pereira,br BRA,MF,29-246,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/6639e500/Andreas-Pereira
-Harrison Reed,eng ENG,MF,30-220,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/803ae100/Harrison-Reed
-Squad Total,,,28.1,3,33,270.0,3.0,2.0,1.0,3.0,2.0,0.0,0.0,6.0,0.0,3.4,3.4,2.9,6.3,55.0,105.0,103.0,0.67,0.33,1.0,0.67,1.0,1.15,0.96,2.11,1.15,2.11,,Fulham,
-Opponent Total,,,25.3,3,33,270.0,3.0,3.0,1.0,4.0,1.0,2.0,3.0,6.0,0.0,5.2,2.9,2.7,5.6,46.0,108.0,108.0,1.0,0.33,1.33,0.33,0.67,1.74,0.9,2.64,0.95,1.85,,Fulham,
-Emmanuel Agbadou,ci CIV,DF,28-079,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.3,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.01,0.1,0.08,0.1,Matches,Wolverhampton Wanderers,/en/players/75f1ed80/Emmanuel-Agbadou
-João Gomes,br BRA,MF,24-204,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,1.0,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Wolverhampton Wanderers,/en/players/8b57ad2c/Joao-Gomes
-Marshall Munetsi,zw ZIM,FW,29-074,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.4,0.6,1.0,6.0,6.0,0.0,0.33,0.33,0.0,0.33,0.05,0.14,0.19,0.05,0.19,Matches,Wolverhampton Wanderers,/en/players/2acf0cd7/Marshall-Munetsi
-José Sá,pt POR,GK,32-230,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Wolverhampton Wanderers,/en/players/903b6e8b/Jose-Sa
-Toti Gomes,pt POR,DF,26-231,3,3,228.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.1,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,Wolverhampton Wanderers,/en/players/f0caab96/Toti-Gomes
-Matt Doherty,ie IRL,DF,33-231,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/d557d734/Matt-Doherty
-André,br BRA,MF,24-050,3,2,179.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/ec604e2c/Andre
-Jørgen Strand Larsen,no NOR,FW,25-210,2,2,158.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,0.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches,Wolverhampton Wanderers,/en/players/f553b2b3/Jorgen-Strand-Larsen
-Jean-Ricner Bellegarde,fr FRA,"FW,MF",27-069,3,2,144.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,4.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.05,0.08,0.13,0.05,0.13,Matches,Wolverhampton Wanderers,/en/players/10f0fdd3/Jean-Ricner-Bellegarde
-Jhon Arias,co COL,FW,27-348,3,2,136.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.2,2.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.11,0.04,0.15,0.11,0.15,Matches,Wolverhampton Wanderers,/en/players/86d96066/Jhon-Arias
-David Møller Wolfe,no NOR,MF,23-134,3,2,132.0,1.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,3.0,2.0,7.0,0.0,0.68,0.68,0.0,0.68,0.0,0.18,0.18,0.0,0.18,Matches,Wolverhampton Wanderers,/en/players/9affc5f2/David-Moller-Wolfe
-Ki-Jana Hoever,nl NED,MF,23-229,2,2,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,1.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,Wolverhampton Wanderers,/en/players/9a71e978/Ki-Jana-Hoever
-Hugo Bueno,es ESP,MF,22-351,3,1,138.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,7.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.04,0.13,0.16,0.04,0.16,Matches,Wolverhampton Wanderers,/en/players/bfc3b3a0/Hugo-Bueno
-Santiago Bueno,uy URU,DF,26-299,2,1,125.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Wolverhampton Wanderers,/en/players/edc98fac/Santiago-Bueno
-Jackson Tchatchoua,cm CMR,MF,23-355,2,1,118.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Wolverhampton Wanderers,/en/players/aeca7743/Jackson-Tchatchoua
-Hwang Hee-chan,kr KOR,FW,29-221,3,1,97.0,1.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.5,1.0,0.0,3.0,0.93,0.0,0.93,0.93,0.93,0.39,0.03,0.42,0.39,0.42,Matches,Wolverhampton Wanderers,/en/players/169fd162/Hwang-Hee-chan
-Fer López,,MF,,2,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,3.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,Wolverhampton Wanderers,/en/players/675cacff/Fer-Lopez
-Rodrigo Gomes,pt POR,MF,22-059,2,0,45.0,0.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,0.0,0.0,9.0,2.0,0.0,2.0,2.0,2.0,0.73,0.0,0.73,0.73,0.73,Matches,Wolverhampton Wanderers,/en/players/8dcf77c0/Rodrigo-Gomes
-Sasa Kalajdzic,at AUT,FW,28-059,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/15f24fe7/Sasa-Kalajdzic
-Sam Johnstone,eng ENG,GK,32-163,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Wolverhampton Wanderers,/en/players/9e5708be/Sam-Johnstone
-Ladislav Krejčí,cz CZE,"DF,MF",26-137,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Wolverhampton Wanderers,/en/players/5b5c2228/Ladislav-Krejci
-Yerson Mosquera,co COL,DF,24-125,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Wolverhampton Wanderers,/en/players/1e159d70/Yerson-Mosquera
-Squad Total,,,27.2,3,33,270.0,3.0,2.0,2.0,4.0,2.0,0.0,0.0,5.0,1.0,2.1,2.1,1.6,3.7,27.0,82.0,81.0,0.67,0.67,1.33,0.67,1.33,0.71,0.53,1.24,0.71,1.24,,Wolverhampton Wanderers,
-Opponent Total,,,26.8,3,33,270.0,3.0,8.0,7.0,15.0,8.0,0.0,0.0,5.0,0.0,5.6,5.6,5.3,10.9,51.0,128.0,127.0,2.67,2.33,5.0,2.67,5.0,1.87,1.75,3.63,1.87,3.63,,Wolverhampton Wanderers,
-Moisés Caicedo,ec ECU,MF,23-306,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.3,0.3,0.0,0.3,3.0,20.0,2.0,0.33,0.0,0.33,0.33,0.33,0.11,0.0,0.11,0.11,0.11,Matches,Chelsea,/en/players/16264a81/Moises-Caicedo
-Robert Sánchez,es ESP,GK,27-290,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/6a713852/Robert-Sanchez
-Pedro Neto,pt POR,FW,25-179,3,3,260.0,2.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.5,0.9,14.0,11.0,27.0,0.35,0.0,0.35,0.35,0.35,0.14,0.18,0.32,0.14,0.32,Matches,Chelsea,/en/players/7ba2eaa9/Pedro-Neto
-Enzo Fernández,ar ARG,MF,24-230,3,3,258.0,2.9,2.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,1.8,1.0,0.7,1.7,3.0,11.0,13.0,0.7,0.35,1.05,0.35,0.7,0.63,0.23,0.86,0.36,0.59,Matches,Chelsea,/en/players/5ff4ab71/Enzo-Fernandez
-João Pedro,br BRA,"MF,FW",23-343,3,3,252.0,2.8,2.0,2.0,4.0,2.0,0.0,0.0,0.0,0.0,1.4,1.4,1.0,2.4,6.0,7.0,18.0,0.71,0.71,1.43,0.71,1.43,0.48,0.37,0.85,0.48,0.85,Matches,Chelsea,/en/players/e8832875/Joao-Pedro
-Trevoh Chalobah,eng ENG,DF,26-061,3,3,248.0,2.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,3.0,13.0,0.0,0.36,0.0,0.36,0.36,0.36,0.19,0.0,0.19,0.19,0.19,Matches,Chelsea,/en/players/5515376c/Trevoh-Chalobah
-Marc Cucurella,es ESP,DF,27-044,3,3,248.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.7,0.8,4.0,16.0,10.0,0.0,0.36,0.36,0.0,0.36,0.04,0.25,0.29,0.04,0.29,Matches,Chelsea,/en/players/1daec722/Marc-Cucurella
-Tosin Adarabioyo,eng ENG,DF,27-345,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/c81d773d/Tosin-Adarabioyo
-Estêvão Willian,br BRA,FW,18-133,3,2,180.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.9,1.9,7.0,3.0,19.0,0.0,0.5,0.5,0.0,0.5,0.49,0.44,0.93,0.49,0.93,Matches,Chelsea,/en/players/2eda11b1/Estevao-Willian
-Malo Gusto,fr FRA,DF,22-108,3,2,170.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12.0,7.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,Chelsea,/en/players/d56b9520/Malo-Gusto
-Liam Delap,eng ENG,FW,22-208,3,2,92.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,Chelsea,/en/players/dd897ee7/Liam-Delap
-Reece James,eng ENG,DF,25-270,3,1,110.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.5,0.5,3.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.03,0.42,0.45,0.03,0.45,Matches,Chelsea,/en/players/1265a93a/Reece-James
-Joshua Acheampong,eng ENG,DF,19-122,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Chelsea,/en/players/b7e62e1d/Joshua-Acheampong
-Jamie Gittens,eng ENG,FW,21-027,3,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,2.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.09,0.08,0.18,0.09,0.18,Matches,Chelsea,/en/players/10745192/Jamie-Gittens
-Cole Palmer,eng ENG,MF,23-121,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,6.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.17,0.02,0.19,0.17,0.19,Matches,Chelsea,/en/players/dc7f8a28/Cole-Palmer
-Tyrique George,eng ENG,FW,19-212,1,0,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches,Chelsea,/en/players/e6f7797e/Tyrique-George
-Andrey Santos,br BRA,MF,21-124,3,0,51.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.1,0.4,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.54,0.1,0.65,0.54,0.65,Matches,Chelsea,/en/players/dd745366/Andrey-Santos
-Wesley Fofana,fr FRA,DF,24-261,1,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/132a82f1/Wesley-Fofana
-Jorrel Hato,nl NED,DF,19-181,1,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/bde35051/Jorrel-Hato
-Dario Essugo,pt POR,MF,20-174,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Chelsea,/en/players/1e4319ac/Dario-Essugo
-Filip Jørgensen,dk DEN,GK,23-141,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Chelsea,/en/players/0107757e/Filip-Jorgensen
-Gaga Slonina,us USA,GK,21-112,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Chelsea,/en/players/c55a846e/Gaga-Slonina
-Squad Total,,,24.3,3,33,270.0,3.0,7.0,5.0,12.0,6.0,1.0,1.0,5.0,0.0,6.4,5.6,4.4,10.1,57.0,127.0,127.0,2.33,1.67,4.0,2.0,3.67,2.15,1.48,3.63,1.88,3.36,,Chelsea,
-Opponent Total,,,27.5,3,33,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,2.3,2.3,1.8,4.1,30.0,77.0,75.0,0.33,0.33,0.67,0.33,0.67,0.76,0.59,1.36,0.76,1.36,,Chelsea,
-Josh Cullen,ie IRL,MF,29-150,3,3,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.7,0.8,2.0,13.0,1.0,0.33,0.33,0.67,0.33,0.67,0.03,0.25,0.28,0.03,0.28,Matches,Burnley,/en/players/f6d7d690/Josh-Cullen
-Martin Dúbravka,sk SVK,GK,36-232,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/3a949a25/Martin-Dubravka
-Quilindschy Hartman,nl NED,DF,23-294,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,1.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.03,0.01,0.04,0.03,0.04,Matches,Burnley,/en/players/39e1138f/Quilindschy-Hartman
-Kyle Walker,eng ENG,DF,35-099,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/86dd77d1/Kyle-Walker
-Jaidon Anthony,eng ENG,"FW,MF",25-277,3,3,264.0,2.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,1.6,1.6,0.2,1.7,3.0,8.0,14.0,0.68,0.34,1.02,0.68,1.02,0.54,0.05,0.6,0.54,0.6,Matches,Burnley,/en/players/e4238fb1/Jaidon-Anthony
-Hjalmar Ekdal,se SWE,DF,26-318,3,3,262.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Burnley,/en/players/3d554589/Hjalmar-Ekdal
-Maxime Estève,fr FRA,DF,23-101,3,3,262.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02,Matches,Burnley,/en/players/1a066e69/Maxime-Esteve
-Lyle Foster,za RSA,FW,25-001,3,3,248.0,2.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.7,0.7,0.4,1.1,3.0,3.0,18.0,0.36,0.0,0.36,0.36,0.36,0.26,0.14,0.4,0.26,0.4,Matches,Burnley,/en/players/f84a807c/Lyle-Foster
-Hannibal Mejbri,tn TUN,MF,22-226,3,3,208.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.2,0.4,4.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.07,0.08,0.15,0.07,0.15,Matches,Burnley,/en/players/ca22ccb0/Hannibal-Mejbri
-Jacob Bruun Larsen,dk DEN,"FW,MF",26-350,3,2,177.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.6,0.7,1.0,4.0,13.0,0.0,0.51,0.51,0.0,0.51,0.03,0.31,0.34,0.03,0.34,Matches,Burnley,/en/players/4e204552/Jacob-Bruun-Larsen
-Lesley Ugochukwu,fr FRA,MF,21-162,3,2,171.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.04,0.01,0.05,0.04,0.05,Matches,Burnley,/en/players/1df4a109/Lesley-Ugochukwu
-Oliver Sonne,pe PER,"DF,FW",24-298,3,1,104.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.06,0.03,0.06,Matches,Burnley,/en/players/b66b8d5e/Oliver-Sonne
-Josh Laurent,eng ENG,MF,30-121,3,1,99.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,2.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.1,0.15,0.25,0.1,0.25,Matches,Burnley,/en/players/f0068e0f/Josh-Laurent
-Loum Tchaouna,fr FRA,"MF,FW",21-361,3,0,51.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.37,0.37,0.37,Matches,Burnley,/en/players/a3c8b4d3/Loum-Tchaouna
-Zian Flemming,nl NED,FW,27-034,2,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.32,0.0,0.32,Matches,Burnley,/en/players/b3f36e72/Zian-Flemming
-Joe Worrall,eng ENG,DF,28-237,2,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/a5212312/Joe-Worrall
-Marcus Edwards,eng ENG,FW,26-275,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/57760e66/Marcus-Edwards
-Lucas,br BRA,DF,24-164,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/5d68f5b2/Lucas
-Aaron Ramsey,eng ENG,MF,22-226,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/e1618c22/Aaron-Ramsey
-Max Weiß,de GER,GK,21-081,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/882228c2/Max-Weiss
-Squad Total,,,27.3,3,33,270.0,3.0,4.0,3.0,7.0,4.0,0.0,0.0,5.0,0.0,3.1,3.1,2.4,5.5,22.0,78.0,78.0,1.33,1.0,2.33,1.33,2.33,1.03,0.8,1.83,1.03,1.83,,Burnley,
-Opponent Total,,,25.4,3,33,270.0,3.0,5.0,4.0,9.0,4.0,1.0,1.0,2.0,0.0,6.6,5.8,4.9,10.7,67.0,128.0,127.0,1.67,1.33,3.0,1.33,2.67,2.21,1.63,3.84,1.95,3.58,,Burnley,
-Cristian Romero,ar ARG,DF,27-130,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/a3d94a58/Cristian-Romero
-Djed Spence,eng ENG,DF,25-026,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,10.0,16.0,11.0,0.0,0.0,0.0,0.0,0.0,0.06,0.02,0.08,0.06,0.08,Matches,Tottenham Hotspur,/en/players/9bc9a519/Djed-Spence
-Micky van de Ven,nl NED,DF,24-138,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6,0.6,0.0,0.6,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Tottenham Hotspur,/en/players/8fe2a392/Micky-van-de-Ven
-Guglielmo Vicario,it ITA,GK,28-332,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/77d6fd4d/Guglielmo-Vicario
-Mohammed Kudus,gh GHA,FW,25-033,3,3,259.0,2.9,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.9,1.0,6.0,4.0,22.0,0.0,0.69,0.69,0.0,0.69,0.02,0.33,0.35,0.02,0.35,Matches,Tottenham Hotspur,/en/players/b62878a5/Mohammed-Kudus
-Pape Matar Sarr,sn SEN,MF,22-355,3,3,255.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.5,2.0,7.0,10.0,0.0,0.35,0.35,0.0,0.35,0.01,0.16,0.17,0.01,0.17,Matches,Tottenham Hotspur,/en/players/feb5d972/Pape-Matar-Sarr
-Pedro Porro,es ESP,DF,25-356,3,3,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.3,0.4,6.0,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.04,0.11,0.15,0.04,0.15,Matches,Tottenham Hotspur,/en/players/27d0a506/Pedro-Porro
-Richarlison,br BRA,FW,28-117,3,3,237.0,2.6,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.8,0.8,0.4,1.3,2.0,5.0,3.0,0.76,0.38,1.14,0.76,1.14,0.32,0.16,0.48,0.32,0.48,Matches,Tottenham Hotspur,/en/players/fa031b34/Richarlison
-Brennan Johnson,wls WAL,FW,24-104,3,3,209.0,2.3,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.9,0.9,0.2,1.1,6.0,5.0,15.0,0.86,0.0,0.86,0.86,0.86,0.39,0.07,0.46,0.39,0.46,Matches,Tottenham Hotspur,/en/players/0cd31129/Brennan-Johnson
-Rodrigo Bentancur,uy URU,MF,28-071,3,2,200.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Tottenham Hotspur,/en/players/3b8674e6/Rodrigo-Bentancur
-João Palhinha,pt POR,MF,30-057,3,2,153.0,1.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,1.0,3.0,0.59,0.0,0.59,0.59,0.59,0.08,0.0,0.08,0.08,0.08,Matches,Tottenham Hotspur,/en/players/a78ff07f/Joao-Palhinha
-Lucas Bergvall,se SWE,MF,19-214,3,1,121.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.2,0.3,5.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.13,0.12,0.25,0.13,0.25,Matches,Tottenham Hotspur,/en/players/a109e5c8/Lucas-Bergvall
-Archie Gray,eng ENG,MF,19-176,1,1,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/f58515f5/Archie-Gray
-Wilson Odobert,fr FRA,"FW,MF",20-280,3,0,61.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.4,2.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.44,0.19,0.63,0.44,0.63,Matches,Tottenham Hotspur,/en/players/35516eac/Wilson-Odobert
-Dominic Solanke,eng ENG,FW,27-355,2,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.57,0.0,0.57,0.57,0.57,Matches,Tottenham Hotspur,/en/players/e77dc3b2/Dominic-Solanke
-Mathys Tel,fr FRA,FW,20-130,2,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Tottenham Hotspur,/en/players/829aa60c/Mathys-Tel
-Destiny Udogie,it ITA,DF,22-280,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,Tottenham Hotspur,/en/players/7cd520e8/Destiny-Udogie
-Kevin Danso,at AUT,DF,26-350,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/6e33125f/Kevin-Danso
-Ben Davies,wls WAL,"DF,MF",32-133,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/44781702/Ben-Davies
-Antonín Kinský,cz CZE,GK,22-175,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/b38ac6a4/Antonin-Kinsky
-Manor Solomon,il ISR,"FW,MF",26-042,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/886f9aac/Manor-Solomon
-Luka Vušković,hr CRO,DF,18-192,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/fd6bdbce/Luka-Vuskovic
-Squad Total,,,25.7,3,33,270.0,3.0,5.0,4.0,9.0,5.0,0.0,0.0,6.0,0.0,3.6,3.6,2.6,6.2,48.0,94.0,92.0,1.67,1.33,3.0,1.67,3.0,1.19,0.88,2.06,1.19,2.06,,Tottenham Hotspur,
-Opponent Total,,,26.4,3,33,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,4.0,4.0,3.4,7.4,39.0,95.0,95.0,0.33,0.33,0.67,0.33,0.67,1.32,1.14,2.46,1.32,2.46,,Tottenham Hotspur,
-Tijjani Reijnders,nl NED,MF,27-037,3,3,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.3,0.3,0.3,0.5,8.0,15.0,17.0,0.33,0.33,0.67,0.33,0.67,0.09,0.09,0.18,0.09,0.18,Matches,Manchester City,/en/players/afb61630/Tijjani-Reijnders
-James Trafford,eng ENG,GK,22-329,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/259fea27/James-Trafford
-John Stones,eng ENG,DF,31-099,3,3,261.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/5eecec3d/John-Stones
-Oscar Bobb,no NOR,"FW,MF",22-054,3,3,254.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2,0.5,9.0,10.0,33.0,0.0,0.35,0.35,0.0,0.35,0.11,0.08,0.19,0.11,0.19,Matches,Manchester City,/en/players/eed2427e/Oscar-Bobb
-Erling Haaland,no NOR,FW,25-045,3,3,252.0,2.8,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.9,3.9,0.6,4.5,2.0,2.0,7.0,1.07,0.0,1.07,1.07,1.07,1.38,0.22,1.59,1.38,1.59,Matches,Manchester City,/en/players/1f44ac21/Erling-Haaland
-Rayan Aït-Nouri,dz ALG,DF,24-090,3,3,202.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2,0.2,6.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.02,0.09,0.11,0.02,0.11,Matches,Manchester City,/en/players/9b398aea/Rayan-Ait-Nouri
-Rúben Dias,pt POR,DF,28-113,3,2,186.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/31c69ef1/Ruben-Dias
-Bernardo Silva,pt POR,MF,31-025,3,2,173.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,7.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.54,0.54,0.0,0.54,Matches,Manchester City,/en/players/3eb22ec9/Bernardo-Silva
-Nicolás González,es ESP,MF,23-244,2,2,164.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,3.0,16.0,4.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Manchester City,/en/players/2c56a792/Nicolas-Gonzalez
-Rico Lewis,eng ENG,DF,20-287,3,2,161.0,1.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,16.0,9.0,0.0,0.56,0.56,0.0,0.56,0.01,0.56,0.58,0.01,0.58,Matches,Manchester City,/en/players/b57e066e/Rico-Lewis
-Omar Marmoush,eg EGY,"FW,MF",26-209,3,2,149.0,1.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,1.0,1.8,7.0,5.0,14.0,0.0,0.6,0.6,0.0,0.6,0.5,0.58,1.08,0.5,1.08,Matches,Manchester City,/en/players/0e0102eb/Omar-Marmoush
-Jeremy Doku,be BEL,"FW,MF",23-100,3,1,121.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,11.0,1.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,0.0,0.15,Matches,Manchester City,/en/players/fffea3e5/Jeremy-Doku
-Matheus Nunes,pt POR,DF,27-008,2,1,109.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/e6af02e0/Matheus-Nunes
-Rodri,es ESP,MF,29-074,2,1,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,3.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.06,0.07,0.13,0.06,0.13,Matches,Manchester City,/en/players/6434f10d/Rodri
-Abdukodir Khusanov,uz UZB,DF,21-187,2,1,93.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/d17ce930/Abdukodir-Khusanov
-Rayan Cherki,fr FRA,"MF,FW",22-018,2,1,71.0,0.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.5,3.0,6.0,3.0,1.27,0.0,1.27,1.27,1.27,0.07,0.6,0.67,0.07,0.67,Matches,Manchester City,/en/players/b34c63a5/Rayan-Cherki
-Nathan Aké,nl NED,DF,30-198,1,0,68.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.19,0.19,0.19,Matches,Manchester City,/en/players/eaeca114/Nathan-Ake
-Nico O’Reilly,eng ENG,MF,20-167,2,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Manchester City,/en/players/91ca4a16/Nico-OReilly
-Phil Foden,eng ENG,MF,25-099,1,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,1.02,0.26,1.29,1.02,1.29,Matches,Manchester City,/en/players/ed1e53f3/Phil-Foden
-Manuel Akanji,ch SUI,"DF,MF",30-047,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/89ac64a6/Manuel-Akanji
-Ederson,br BRA,GK,32-018,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/3bb7b8b4/Ederson
-İlkay Gündoğan,de GER,MF,34-315,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/819b3158/Ilkay-Gundogan
-Stefan Ortega,de GER,GK,32-302,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/c1242d4e/Stefan-Ortega
-Squad Total,,,25.6,3,33,270.0,3.0,5.0,4.0,9.0,5.0,0.0,0.0,5.0,0.0,5.8,5.8,5.1,10.8,72.0,137.0,137.0,1.67,1.33,3.0,1.67,3.0,1.92,1.69,3.61,1.92,3.61,,Manchester City,
-Opponent Total,,,26.7,3,33,270.0,3.0,4.0,2.0,6.0,3.0,1.0,1.0,7.0,0.0,3.9,3.1,2.3,5.4,43.0,62.0,62.0,1.33,0.67,2.0,1.0,1.67,1.3,0.76,2.06,1.05,1.81,,Manchester City,
-Kiernan Dewsbury-Hall,eng ENG,MF,26-363,3,3,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.1,0.1,1.4,1.5,5.0,16.0,8.0,0.33,0.33,0.67,0.33,0.67,0.02,0.47,0.48,0.02,0.48,Matches,Everton,/en/players/5c74c0f5/Kiernan-Dewsbury-Hall
-James Garner,eng ENG,"DF,MF",24-175,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,1.0,11.0,5.0,0.33,0.0,0.33,0.33,0.33,0.03,0.06,0.09,0.03,0.09,Matches,Everton,/en/players/4e015693/James-Garner
-Michael Keane,eng ENG,DF,32-236,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/c5b7c315/Michael-Keane
-Jake O'Brien,ie IRL,DF,24-112,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,1.0,8.0,13.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Everton,/en/players/25f2ef01/Jake-OBrien
-Jordan Pickford,eng ENG,GK,31-181,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/4806ec67/Jordan-Pickford
-James Tarkowski,eng ENG,DF,32-289,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,3.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,Everton,/en/players/15ea812b/James-Tarkowski
-Idrissa Gana Gueye,sn SEN,MF,35-343,3,3,255.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.5,2.0,11.0,5.0,0.0,0.0,0.0,0.0,0.0,0.12,0.05,0.17,0.12,0.17,Matches,Everton,/en/players/72c812f3/Idrissa-Gana-Gueye
-Iliman Ndiaye,sn SEN,FW,25-182,3,3,242.0,2.7,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.3,1.3,0.2,1.5,4.0,3.0,16.0,0.74,0.0,0.74,0.74,0.74,0.48,0.07,0.54,0.48,0.54,Matches,Everton,/en/players/5ed97752/Iliman-Ndiaye
-Jack Grealish,eng ENG,FW,29-359,3,2,196.0,2.2,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.6,1.9,11.0,11.0,15.0,0.0,1.84,1.84,0.0,1.84,0.15,0.72,0.87,0.15,0.87,Matches,Everton,/en/players/b0b4fd3e/Jack-Grealish
-Beto,gw GNB,FW,27-216,3,2,192.0,2.1,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.8,0.8,0.2,1.0,1.0,1.0,8.0,0.47,0.0,0.47,0.47,0.47,0.39,0.08,0.47,0.39,0.47,Matches,Everton,/en/players/ed5c0319/Beto
-Tim Iroegbunam,eng ENG,MF,22-066,3,2,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0,0.1,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Everton,/en/players/84c5ceea/Tim-Iroegbunam
-Carlos Alcaraz,ar ARG,"FW,MF",22-278,3,1,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Everton,/en/players/4abac767/Carlos-Alcaraz
-Vitaliy Mykolenko,ua UKR,DF,26-098,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/30d4a2e5/Vitaliy-Mykolenko
-Thierno Barry,fr FRA,"FW,MF",22-318,3,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.38,0.38,0.38,Matches,Everton,/en/players/52c3244b/Thierno-Barry
-Dwight McNeil,eng ENG,FW,25-286,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.4,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.1,0.64,1.74,1.1,1.74,Matches,Everton,/en/players/fc15fb84/Dwight-McNeil
-Harrison Armstrong,eng ENG,FW,18-228,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/de59e609/Harrison-Armstrong
-Séamus Coleman,ie IRL,FW,36-328,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/0420d84f/Seamus-Coleman
-Elijah Campbell,eng ENG,DF,21-033,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/48ba3f58/Elijah-Campbell
-Youssef Chermiti,pt POR,FW,21-103,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/890f108d/Youssef-Chermiti
-Tyler Dibling,eng ENG,MF,19-176,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/bdcc89ae/Tyler-Dibling
-Tyler Onyango,eng ENG,MF,22-184,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/d86a1f3e/Tyler-Onyango
-Mark Travers,ie IRL,GK,26-109,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/fe558029/Mark-Travers
-Harry Tyrer,eng ENG,GK,23-272,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/af49fb14/Harry-Tyrer
-Squad Total,,,28.3,3,33,270.0,3.0,5.0,5.0,10.0,5.0,0.0,0.0,7.0,0.0,4.3,4.3,3.7,8.0,31.0,84.0,84.0,1.67,1.67,3.33,1.67,3.33,1.42,1.25,2.67,1.42,2.67,,Everton,
-Opponent Total,,,26.4,3,33,270.0,3.0,3.0,2.0,5.0,2.0,1.0,2.0,3.0,0.0,5.5,4.1,3.0,7.1,41.0,112.0,111.0,1.0,0.67,1.67,0.67,1.33,1.83,1.01,2.85,1.36,2.37,,Everton,
-Marc Guéhi,eng ENG,DF,25-053,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,1.0,9.0,1.0,0.33,0.0,0.33,0.33,0.33,0.05,0.0,0.06,0.05,0.06,Matches,Crystal Palace,/en/players/d0706b27/Marc-Guehi
-Dean Henderson,eng ENG,GK,28-176,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/e5a76dfe/Dean-Henderson
-Maxence Lacroix,fr FRA,DF,25-151,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.5,0.6,0.0,3.0,1.0,0.0,0.33,0.33,0.0,0.33,0.03,0.17,0.21,0.03,0.21,Matches,Crystal Palace,/en/players/277c49ed/Maxence-Lacroix
-Tyrick Mitchell,eng ENG,"DF,MF",26-003,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,11.0,3.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Crystal Palace,/en/players/5cbd1eb0/Tyrick-Mitchell
-Daniel Muñoz,co COL,"DF,MF",29-101,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.5,1.5,4.0,6.0,14.0,0.0,0.33,0.33,0.0,0.33,0.02,0.49,0.5,0.02,0.5,Matches,Crystal Palace,/en/players/778ef829/Daniel-Munoz
-Chris Richards,us USA,DF,25-160,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Crystal Palace,/en/players/0a3d6d2b/Chris-Richards
-Ismaila Sarr,sn SEN,"MF,FW",27-191,3,3,270.0,3.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0,2.0,4.0,8.0,12.0,0.67,0.0,0.67,0.67,0.67,0.66,0.02,0.68,0.66,0.68,Matches,Crystal Palace,/en/players/bfdb33aa/Ismaila-Sarr
-Jean-Philippe Mateta,fr FRA,FW,28-068,3,3,261.0,2.9,1.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,1.2,0.5,0.0,0.5,1.0,4.0,7.0,0.34,0.0,0.34,0.0,0.0,0.43,0.0,0.43,0.16,0.16,Matches,Crystal Palace,/en/players/50e6dc35/Jean-Philippe-Mateta
-Will Hughes,eng ENG,MF,30-140,3,3,229.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.3,0.4,0.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0,0.05,0.11,0.15,0.05,0.15,Matches,Crystal Palace,/en/players/a0666d3e/Will-Hughes
-Adam Wharton,eng ENG,MF,21-210,3,3,226.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,Crystal Palace,/en/players/4b542852/Adam-Wharton
-Daichi Kamada,jp JPN,MF,29-030,1,1,85.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/15b287da/Daichi-Kamada
-Eberechi Eze,eng ENG,MF,27-067,1,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,Crystal Palace,/en/players/ae4fc6a4/Eberechi-Eze
-Justin Devenny,nir NIR,"FW,MF",21-328,3,1,78.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Crystal Palace,/en/players/6c2b66fc/Justin-Devenny
-Jefferson Lerma,co COL,MF,30-314,3,0,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.5,0.5,Matches,Crystal Palace,/en/players/9b5ce51a/Jefferson-Lerma
-Romain Esse,eng ENG,FW,20-114,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/87189f25/Romain-Esse
-Yeremi Pino,es ESP,MF,22-319,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.11,1.62,1.73,0.11,1.73,Matches,Crystal Palace,/en/players/540ec57b/Yeremi-Pino
-Nathaniel Clyne,eng ENG,DF,34-152,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/0442183b/Nathaniel-Clyne
-Odsonne Édouard,fr FRA,FW,27-231,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/0562b7f1/Odsonne-Edouard
-Walter Benítez,ar ARG,GK,32-228,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/8a2248b4/Walter-Benitez
-Rio Cardines,tt TRI,MF,19-065,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/702812fe/Rio-Cardines
-Remi Matthews,eng ENG,GK,31-206,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/27f4f772/Remi-Matthews
-Jesurun Rak Sakyi,eng ENG,"FW,MF",22-334,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/45685411/Jesurun-Rak-Sakyi
-Kaden Rodney,eng ENG,"DF,MF",20-332,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/49375cdd/Kaden-Rodney
-Borna Sosa,hr CRO,"DF,MF",27-226,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/af0d79a9/Borna-Sosa
-Squad Total,,,26.7,3,33,270.0,3.0,4.0,2.0,6.0,3.0,1.0,1.0,9.0,0.0,4.4,3.6,3.2,6.8,29.0,74.0,73.0,1.33,0.67,2.0,1.0,1.67,1.46,1.06,2.52,1.2,2.26,,Crystal Palace,
-Opponent Total,,,26.4,3,33,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,7.0,0.0,3.6,3.6,2.5,6.1,42.0,155.0,154.0,0.33,0.33,0.67,0.33,0.67,1.2,0.85,2.05,1.2,2.05,,Crystal Palace,
-Jarrod Bowen,eng ENG,FW,28-258,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.8,1.1,11.0,8.0,26.0,0.33,0.0,0.33,0.33,0.33,0.1,0.28,0.38,0.1,0.38,Matches,West Ham United,/en/players/79c84d1c/Jarrod-Bowen
-El Hadji Malick Diouf,sn SEN,DF,20-250,3,3,270.0,3.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.5,0.7,4.0,6.0,17.0,0.0,0.67,0.67,0.0,0.67,0.05,0.18,0.23,0.05,0.23,Matches,West Ham United,/en/players/bd5eb2e5/El-Hadji-Malick-Diouf
-Mads Hermansen,dk DEN,GK,25-055,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/c924b17d/Mads-Hermansen
-Max Kilman,eng ENG,DF,28-104,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.01,0.07,0.06,0.07,Matches,West Ham United,/en/players/d0f72bf1/Max-Kilman
-Lucas Paquetá,br BRA,MF,28-008,3,3,270.0,3.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,1.2,0.4,0.1,0.5,2.0,24.0,13.0,0.67,0.0,0.67,0.33,0.33,0.39,0.03,0.43,0.13,0.16,Matches,West Ham United,/en/players/9b6f7fd5/Lucas-Paqueta
-James Ward-Prowse,eng ENG,MF,30-307,3,3,234.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.6,1.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0,0.04,0.19,0.23,0.04,0.23,Matches,West Ham United,/en/players/3515d404/James-Ward-Prowse
-Niclas Füllkrug,de GER,FW,32-207,3,3,198.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2,0.5,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.13,0.08,0.21,0.13,0.21,Matches,West Ham United,/en/players/4f16405e/Niclas-Fullkrug
-Nayef Aguerd,ma MAR,DF,29-158,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,West Ham United,/en/players/288e1e13/Nayef-Aguerd
-Aaron Wan-Bissaka,cd COD,DF,27-282,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,5.0,6.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,West Ham United,/en/players/9e525177/Aaron-Wan-Bissaka
-Tomáš Souček,cz CZE,MF,30-189,3,2,179.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,West Ham United,/en/players/6613c819/Tomas-Soucek
-Jean-Clair Todibo,fr FRA,DF,25-248,2,2,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/88f130ed/Jean-Clair-Todibo
-Kyle Walker-Peters,eng ENG,DF,28-144,2,1,111.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,West Ham United,/en/players/984a5a64/Kyle-Walker-Peters
-Konstantinos Mavropanos,gr GRE,DF,27-267,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,West Ham United,/en/players/00963611/Konstantinos-Mavropanos
-Mateus Fernandes,pt POR,FW,21-056,1,1,81.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.19,0.0,0.19,Matches,West Ham United,/en/players/ef491564/Mateus-Fernandes
-Guido Rodríguez,ar ARG,MF,31-145,1,1,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,West Ham United,/en/players/34e393f2/Guido-Rodriguez
-Callum Wilson,eng ENG,FW,33-189,3,0,92.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.1,1.1,0.0,1.1,1.0,0.0,5.0,0.98,0.0,0.98,0.98,0.98,1.07,0.04,1.11,1.07,1.11,Matches,West Ham United,/en/players/c596fcb0/Callum-Wilson
-Freddie Potts,eng ENG,MF,21-357,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/86bf27f0/Freddie-Potts
-Andy Irving,sct SCO,MF,25-114,2,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,West Ham United,/en/players/b1be9fc0/Andy-Irving
-Crysencio Summerville,nl NED,FW,23-309,1,0,9.0,0.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,2.0,1.0,2.0,0.0,10.0,10.0,0.0,10.0,0.0,0.67,0.67,0.0,0.67,Matches,West Ham United,/en/players/df04eb4b/Crysencio-Summerville
-Edson Álvarez,mx MEX,"DF,MF",27-315,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/8b3ab7ad/Edson-Alvarez
-Alphonse Areola,fr FRA,GK,32-189,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/2f965a72/Alphonse-Areola
-Callum Marshall,nir NIR,FW,20-280,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/3a27f1bf/Callum-Marshall
-Oliver Scarles,eng ENG,MF,19-266,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/242e5e6d/Oliver-Scarles
-Squad Total,,,27.8,3,33,270.0,3.0,4.0,3.0,7.0,3.0,1.0,1.0,1.0,0.0,3.7,2.9,2.6,5.5,33.0,101.0,100.0,1.33,1.0,2.33,1.0,2.0,1.23,0.86,2.09,0.96,1.83,,West Ham United,
-Opponent Total,,,25.2,3,33,270.0,3.0,8.0,6.0,14.0,8.0,0.0,0.0,1.0,0.0,4.2,4.2,3.5,7.6,52.0,111.0,109.0,2.67,2.0,4.67,2.67,4.67,1.4,1.15,2.55,1.4,2.55,,West Ham United,
+Emmanuel Agbadou,ci CIV,DF,28-093,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.3,1.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.01,0.07,0.06,0.07,Matches,Wolverhampton Wanderers,/en/players/75f1ed80/Emmanuel-Agbadou
+João Gomes,br BRA,MF,24-218,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.1,0.2,2.0,21.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Wolverhampton Wanderers,/en/players/8b57ad2c/Joao-Gomes
+Toti Gomes,pt POR,DF,26-245,4,4,318.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.1,3.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,Wolverhampton Wanderers,/en/players/f0caab96/Toti-Gomes
+Marshall Munetsi,zw ZIM,FW,29-088,4,3,295.0,3.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.4,0.6,2.0,6.0,7.0,0.0,0.31,0.31,0.0,0.31,0.04,0.13,0.18,0.04,0.18,Matches,Wolverhampton Wanderers,/en/players/2acf0cd7/Marshall-Munetsi
+José Sá,pt POR,GK,32-244,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Wolverhampton Wanderers,/en/players/903b6e8b/Jose-Sa
+André,br BRA,MF,24-064,4,3,244.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/ec604e2c/Andre
+Hugo Bueno,es ESP,"MF,DF",23-000,4,2,229.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.3,0.4,11.0,4.0,15.0,0.0,0.0,0.0,0.0,0.0,0.02,0.12,0.14,0.02,0.14,Matches,Wolverhampton Wanderers,/en/players/bfc3b3a0/Hugo-Bueno
+Matt Doherty,ie IRL,DF,33-245,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/d557d734/Matt-Doherty
+Hwang Hee-chan,kr KOR,FW,29-235,4,2,173.0,1.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0,0.6,1.0,0.0,5.0,0.52,0.0,0.52,0.52,0.52,0.29,0.02,0.31,0.29,0.31,Matches,Wolverhampton Wanderers,/en/players/169fd162/Hwang-Hee-chan
+Jean-Ricner Bellegarde,ht HAI,"FW,MF",27-083,4,2,169.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.3,4.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.07,0.07,0.14,0.07,0.14,Matches,Wolverhampton Wanderers,/en/players/10f0fdd3/Jean-Ricner-Bellegarde
+Jhon Arias,co COL,FW,27-362,4,2,161.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.3,3.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.12,0.03,0.15,0.12,0.15,Matches,Wolverhampton Wanderers,/en/players/86d96066/Jhon-Arias
+Jørgen Strand Larsen,no NOR,FW,25-224,2,2,158.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,0.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches,Wolverhampton Wanderers,/en/players/f553b2b3/Jorgen-Strand-Larsen
+David Møller Wolfe,no NOR,MF,23-148,3,2,131.0,1.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,3.0,2.0,7.0,0.0,0.69,0.69,0.0,0.69,0.0,0.18,0.18,0.0,0.18,Matches,Wolverhampton Wanderers,/en/players/9affc5f2/David-Moller-Wolfe
+Ki-Jana Hoever,nl NED,MF,23-243,2,2,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,1.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,Wolverhampton Wanderers,/en/players/9a71e978/Ki-Jana-Hoever
+Jackson Tchatchoua,cm CMR,"MF,DF",24-004,3,1,133.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Wolverhampton Wanderers,/en/players/aeca7743/Jackson-Tchatchoua
+Santiago Bueno,uy URU,DF,26-313,2,1,125.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Wolverhampton Wanderers,/en/players/edc98fac/Santiago-Bueno
+Rodrigo Gomes,pt POR,"DF,MF",22-073,3,1,121.0,1.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0,0.6,2.0,1.0,10.0,0.74,0.0,0.74,0.74,0.74,0.47,0.0,0.47,0.47,0.47,Matches,Wolverhampton Wanderers,/en/players/8dcf77c0/Rodrigo-Gomes
+Sam Johnstone,eng ENG,GK,32-177,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/9e5708be/Sam-Johnstone
+Ladislav Krejčí,cz CZE,"MF,DF",26-151,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Wolverhampton Wanderers,/en/players/5b5c2228/Ladislav-Krejci
+Tolu Arokodare,ng NGA,FW,24-299,1,1,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/a42760bc/Tolu-Arokodare
+Yerson Mosquera,co COL,DF,24-139,1,1,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/1e159d70/Yerson-Mosquera
+Fer López,es ESP,"MF,FW",21-117,3,0,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.2,4.0,8.0,4.0,0.0,0.0,0.0,0.0,0.0,0.17,0.06,0.23,0.17,0.23,Matches,Wolverhampton Wanderers,/en/players/675cacff/Fer-Lopez
+Sasa Kalajdzic,at AUT,FW,28-073,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Wolverhampton Wanderers,/en/players/15f24fe7/Sasa-Kalajdzic
+Daniel Bentley,eng ENG,GK,32-067,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Wolverhampton Wanderers,/en/players/68db6358/Daniel-Bentley
+Squad Total,,,26.9,4,44,360.0,4.0,2.0,2.0,4.0,2.0,0.0,0.0,9.0,1.0,2.6,2.6,1.9,4.5,40.0,103.0,101.0,0.5,0.5,1.0,0.5,1.0,0.66,0.47,1.13,0.66,1.13,,Wolverhampton Wanderers,
+Opponent Total,,,27.5,4,44,360.0,4.0,9.0,8.0,17.0,9.0,0.0,0.0,6.0,0.0,7.1,7.1,6.6,13.8,62.0,179.0,178.0,2.25,2.0,4.25,2.25,4.25,1.79,1.65,3.44,1.79,3.44,,Wolverhampton Wanderers,
+Tijjani Reijnders,nl NED,MF,27-051,4,4,360.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.7,0.7,0.3,1.0,8.0,17.0,19.0,0.25,0.25,0.5,0.25,0.5,0.17,0.08,0.25,0.17,0.25,Matches,Manchester City,/en/players/afb61630/Tijjani-Reijnders
+Erling Haaland,no NOR,FW,25-059,4,4,338.0,3.8,5.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,5.7,5.7,0.9,6.6,7.0,4.0,11.0,1.33,0.0,1.33,1.33,1.33,1.53,0.23,1.76,1.53,1.76,Matches,Manchester City,/en/players/1f44ac21/Erling-Haaland
+Rúben Dias,pt POR,DF,28-127,4,3,276.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/31c69ef1/Ruben-Dias
+James Trafford,eng ENG,GK,22-343,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/259fea27/James-Trafford
+John Stones,eng ENG,DF,31-113,3,3,261.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/5eecec3d/John-Stones
+Bernardo Silva,pt POR,MF,31-039,4,3,260.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,1.6,1.7,7.0,10.0,18.0,0.0,0.35,0.35,0.0,0.35,0.02,0.57,0.58,0.02,0.58,Matches,Manchester City,/en/players/3eb22ec9/Bernardo-Silva
+Oscar Bobb,no NOR,"FW,MF",22-068,4,3,258.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.4,0.7,10.0,10.0,33.0,0.0,0.35,0.35,0.0,0.35,0.1,0.13,0.23,0.1,0.23,Matches,Manchester City,/en/players/eed2427e/Oscar-Bobb
+Rayan Aït-Nouri,dz ALG,DF,24-104,3,3,202.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2,0.2,6.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.02,0.09,0.11,0.02,0.11,Matches,Manchester City,/en/players/9b398aea/Rayan-Ait-Nouri
+Jeremy Doku,be BEL,"MF,FW",23-114,4,2,197.0,2.2,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,1.7,18.0,3.0,22.0,0.0,0.91,0.91,0.0,0.91,0.0,0.77,0.77,0.0,0.77,Matches,Manchester City,/en/players/fffea3e5/Jeremy-Doku
+Abdukodir Khusanov,uz UZB,DF,21-201,3,2,183.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/d17ce930/Abdukodir-Khusanov
+Rodri,es ESP,MF,29-088,3,2,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,4.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.08,0.04,0.08,Matches,Manchester City,/en/players/6434f10d/Rodri
+Nicolás González,es ESP,MF,23-258,3,2,179.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,3.0,16.0,4.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Manchester City,/en/players/2c56a792/Nicolas-Gonzalez
+Rico Lewis,eng ENG,DF,20-301,3,2,161.0,1.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,16.0,9.0,0.0,0.56,0.56,0.0,0.56,0.01,0.56,0.58,0.01,0.58,Matches,Manchester City,/en/players/b57e066e/Rico-Lewis
+Omar Marmoush,eg EGY,"FW,MF",26-223,3,2,149.0,1.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,1.0,1.8,7.0,5.0,14.0,0.0,0.6,0.6,0.0,0.6,0.5,0.58,1.08,0.5,1.08,Matches,Manchester City,/en/players/0e0102eb/Omar-Marmoush
+Nico O’Reilly,eng ENG,"DF,MF",20-181,3,1,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,3.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Manchester City,/en/players/91ca4a16/Nico-OReilly
+Matheus Nunes,pt POR,DF,27-022,2,1,109.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/e6af02e0/Matheus-Nunes
+Phil Foden,eng ENG,MF,25-113,2,1,106.0,1.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.5,0.5,0.1,0.5,3.0,9.0,3.0,0.85,0.0,0.85,0.85,0.85,0.38,0.06,0.44,0.38,0.44,Matches,Manchester City,/en/players/ed1e53f3/Phil-Foden
+Gianluigi Donnarumma,it ITA,GK,26-205,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/08f5afaa/Gianluigi-Donnarumma
+Joško Gvardiol,hr CRO,DF,23-238,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,/en/players/5ad50391/Josko-Gvardiol
+Rayan Cherki,fr FRA,"MF,FW",22-032,2,1,71.0,0.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.5,3.0,6.0,3.0,1.27,0.0,1.27,1.27,1.27,0.07,0.6,0.67,0.07,0.67,Matches,Manchester City,/en/players/b34c63a5/Rayan-Cherki
+Nathan Aké,nl NED,DF,30-212,2,0,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,Manchester City,/en/players/eaeca114/Nathan-Ake
+Sávio,br BRA,MF,21-161,1,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,Manchester City,/en/players/fe6e7156/Savio
+Manuel Akanji,ch SUI,"DF,MF",30-061,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/89ac64a6/Manuel-Akanji
+Ederson,br BRA,GK,32-032,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/3bb7b8b4/Ederson
+İlkay Gündoğan,de GER,MF,34-329,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/819b3158/Ilkay-Gundogan
+Stephen Mfuni,eng ENG,DF,17-218,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/c6685def/Stephen-Mfuni
+Divine Mukasa,eng ENG,MF,18-027,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/ce7ae86a/Divine-Mukasa
+Stefan Ortega,de GER,GK,32-316,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester City,/en/players/c1242d4e/Stefan-Ortega
+Squad Total,,,25.6,4,44,360.0,4.0,8.0,7.0,15.0,8.0,0.0,0.0,5.0,0.0,8.4,8.4,7.6,16.1,92.0,161.0,159.0,2.0,1.75,3.75,2.0,3.75,2.11,1.91,4.02,2.11,4.02,,Manchester City,
+Opponent Total,,,26.4,4,44,360.0,4.0,4.0,2.0,6.0,3.0,1.0,1.0,7.0,0.0,5.1,4.3,3.3,7.7,65.0,116.0,116.0,1.0,0.5,1.5,0.75,1.25,1.28,0.83,2.11,1.09,1.92,,Manchester City,
+Lewis Dunk,eng ENG,DF,33-301,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,0.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.05,0.01,0.05,0.05,0.05,Matches,Brighton and Hove Albion,/en/players/282f75f3/Lewis-Dunk
+Jan Paul van Hecke,nl NED,DF,25-102,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.0,0.3,3.0,20.0,1.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,Brighton and Hove Albion,/en/players/4fd08daa/Jan-Paul-van-Hecke
+Bart Verbruggen,nl NED,GK,23-031,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Brighton and Hove Albion,/en/players/cf134113/Bart-Verbruggen
+Kaoru Mitoma,jp JPN,FW,28-121,4,4,352.0,3.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.7,0.7,1.0,1.7,10.0,8.0,25.0,0.26,0.26,0.51,0.26,0.51,0.17,0.25,0.42,0.17,0.42,Matches,Brighton and Hove Albion,/en/players/74618572/Kaoru-Mitoma
+Yankuba Minteh,gm GAM,FW,21-058,4,4,337.0,3.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,1.3,1.8,21.0,4.0,29.0,0.0,0.27,0.27,0.0,0.27,0.13,0.35,0.49,0.13,0.49,Matches,Brighton and Hove Albion,/en/players/c3cf087d/Yankuba-Minteh
+Maxim De Cuyper,be BEL,DF,24-270,4,4,269.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,1.0,10.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Brighton and Hove Albion,/en/players/d494882e/Maxim-De-Cuyper
+Danny Welbeck,eng ENG,FW,34-296,4,3,238.0,2.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.7,0.9,0.1,0.9,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.63,0.02,0.65,0.33,0.35,Matches,Brighton and Hove Albion,/en/players/ce5143da/Danny-Welbeck
+Carlos Baleba,cm CMR,MF,21-258,4,3,197.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.04,0.02,0.04,Matches,Brighton and Hove Albion,/en/players/a1390d2f/Carlos-Baleba
+Yasin Ayari,se SWE,MF,21-347,4,2,274.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.2,1.0,17.0,4.0,0.0,0.0,0.0,0.0,0.0,0.05,0.02,0.07,0.05,0.07,Matches,Brighton and Hove Albion,/en/players/f173303a/Yasin-Ayari
+Joël Veltman,nl NED,DF,33-246,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Brighton and Hove Albion,/en/players/dad4b285/Joel-Veltman
+Matt O'Riley,dk DEN,MF,24-301,2,2,177.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.2,0.4,0.2,0.6,0.0,5.0,11.0,0.51,0.0,0.51,0.0,0.0,0.61,0.1,0.72,0.21,0.32,Matches,Brighton and Hove Albion,/en/players/fb495bb8/Matt-ORiley
+Mats Wieffer,nl NED,DF,25-306,2,2,174.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Brighton and Hove Albion,/en/players/4876c9ab/Mats-Wieffer
+Georginio Rutter,fr FRA,"FW,MF",23-151,3,2,164.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1,0.2,5.0,6.0,11.0,0.0,0.0,0.0,0.0,0.0,0.07,0.04,0.12,0.07,0.12,Matches,Brighton and Hove Albion,/en/players/c64c01fc/Georginio-Rutter
+Jack Hinshelwood,eng ENG,MF,20-160,3,2,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/e98211e7/Jack-Hinshelwood
+Diego Gómez,py PAR,MF,22-175,3,1,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3,0.3,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02,0.26,0.29,0.02,0.29,Matches,Brighton and Hove Albion,/en/players/916728da/Diego-Gomez
+James Milner,eng ENG,MF,39-257,3,1,99.0,1.1,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.8,0.0,0.0,0.0,2.0,2.0,1.0,0.91,0.0,0.91,0.0,0.0,0.72,0.0,0.72,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/2f90f6b8/James-Milner
+Ferdi Kadioglu,tr TUR,"DF,FW",25-346,3,0,113.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/66c52a77/Ferdi-Kadioglu
+Brajan Gruda,de GER,"MF,FW",21-110,4,0,68.0,0.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.2,1.2,0.1,1.3,5.0,2.0,7.0,1.32,0.0,1.32,1.32,1.32,1.53,0.17,1.69,1.53,1.69,Matches,Brighton and Hove Albion,/en/players/ae9b998d/Brajan-Gruda
+Stefanos Tzimas,gr GRE,FW,19-255,1,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/a497130f/Stefanos-Tzimas
+Diego Coppola,it ITA,DF,21-264,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brighton and Hove Albion,/en/players/22ae86f9/Diego-Coppola
+Olivier Boscagli,fr FRA,DF,27-304,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brighton and Hove Albion,/en/players/403f5d20/Olivier-Boscagli
+Jason Steele,eng ENG,GK,35-031,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brighton and Hove Albion,/en/players/28300a16/Jason-Steele
+Tom Watson,eng ENG,MF,19-163,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brighton and Hove Albion,/en/players/9886c32e/Tom-Watson
+Squad Total,,,26.3,4,44,360.0,4.0,4.0,2.0,6.0,2.0,2.0,3.0,12.0,0.0,6.7,4.4,3.5,7.9,60.0,116.0,115.0,1.0,0.5,1.5,0.5,1.0,1.67,0.86,2.54,1.1,1.97,,Brighton and Hove Albion,
+Opponent Total,,,26.9,4,44,360.0,4.0,6.0,4.0,10.0,5.0,1.0,1.0,13.0,0.0,5.6,4.8,3.9,8.7,71.0,127.0,127.0,1.5,1.0,2.5,1.25,2.25,1.39,0.98,2.38,1.2,2.18,,Brighton and Hove Albion,
+Đorđe Petrović,rs SRB,GK,25-345,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/0cf321c8/Djordje-Petrovic
+Antoine Semenyo,gh GHA,"FW,MF",25-254,4,4,360.0,4.0,3.0,2.0,5.0,2.0,1.0,1.0,1.0,0.0,2.7,1.9,0.4,2.3,12.0,15.0,22.0,0.75,0.5,1.25,0.5,1.0,0.67,0.1,0.77,0.47,0.57,Matches,Bournemouth,/en/players/efd2ec23/Antoine-Semenyo
+Marcos Senesi,ar ARG,DF,28-131,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,1.0,15.0,0.0,0.0,0.25,0.25,0.0,0.25,0.03,0.05,0.08,0.03,0.08,Matches,Bournemouth,/en/players/35141f4c/Marcos-Senesi
+Adrien Truffert,fr FRA,DF,23-302,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.6,11.0,19.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,Bournemouth,/en/players/5d0e0a1f/Adrien-Truffert
+Tyler Adams,us USA,MF,26-216,4,4,356.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.0,0.1,0.0,10.0,4.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,Bournemouth,/en/players/2b09d998/Tyler-Adams
+Evanilson,br BRA,FW,25-347,4,4,346.0,3.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.9,0.9,0.5,1.4,4.0,5.0,12.0,0.26,0.0,0.26,0.26,0.26,0.24,0.13,0.37,0.24,0.37,Matches,Bournemouth,/en/players/6f3cc2fe/Evanilson
+Marcus Tavernier,eng ENG,MF,26-180,4,4,333.0,3.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.9,0.9,0.3,1.1,11.0,16.0,22.0,0.27,0.0,0.27,0.27,0.27,0.24,0.07,0.31,0.24,0.31,Matches,Bournemouth,/en/players/5c0da4a4/Marcus-Tavernier
+David Brooks,wls WAL,"MF,FW",28-072,4,4,277.0,3.1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.8,0.8,1.4,2.2,6.0,10.0,24.0,0.0,0.32,0.32,0.0,0.32,0.25,0.45,0.7,0.25,0.7,Matches,Bournemouth,/en/players/dc4cae05/David-Brooks
+Alex Scott,eng ENG,MF,22-028,4,4,266.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.2,0.2,0.3,0.4,6.0,5.0,9.0,0.34,0.0,0.34,0.34,0.34,0.06,0.09,0.15,0.06,0.15,Matches,Bournemouth,/en/players/104d0bb8/Alex-Scott
+Bafodé Diakité,fr FRA,DF,24-255,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Bournemouth,/en/players/1bfb6fef/Bafode-Diakite
+Adam Smith,eng ENG,DF,34-142,3,3,204.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Bournemouth,/en/players/20b104bc/Adam-Smith
+James Hill,eng ENG,DF,23-251,4,1,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,0.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Bournemouth,/en/players/69942fb3/James-Hill
+Veljko Milosavljević,rs SRB,DF,18-082,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Bournemouth,/en/players/c478319d/Veljko-Milosavljevic
+Amine Adli,ma MAR,"MF,FW",25-131,3,0,76.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,3.0,11.0,0.0,0.0,0.0,0.0,0.0,0.05,0.1,0.14,0.05,0.14,Matches,Bournemouth,/en/players/dcfb17f4/Amine-Adli
+Ryan Christie,sct SCO,MF,30-208,2,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.04,0.13,0.1,0.13,Matches,Bournemouth,/en/players/26ce2263/Ryan-Christie
+Justin Kluivert,nl NED,"MF,FW",26-136,3,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.2,0.4,1.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.39,0.33,0.72,0.39,0.72,Matches,Bournemouth,/en/players/4c3a6744/Justin-Kluivert
+Hamed Junior Traorè,ci CIV,MF,25-214,1,0,17.0,0.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,5.29,5.29,0.0,5.29,0.0,1.1,1.1,0.0,1.1,Matches,Bournemouth,/en/players/570bb4b9/Hamed-Junior-Traore
+Eli Junior Kroupi,fr FRA,"FW,MF",19-087,3,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/b2fe86e5/Eli-Junior-Kroupi
+Ben Winterburn,eng ENG,MF,21-014,1,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/ba31eee2/Ben-Winterburn
+Lewis Cook,eng ENG,MF,28-227,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/2afc7272/Lewis-Cook
+Álex Jiménez,es ESP,DF,20-133,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/faa13947/Alex-Jimenez
+Julio Soler,ar ARG,FW,20-214,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Bournemouth,/en/players/98c8559a/Julio-Soler
+Julian Araujo,mx MEX,DF,24-036,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/8f4541c2/Julian-Araujo
+Philip Billing,dk DEN,MF,29-099,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/d328a254/Philip-Billing
+Will Dennis,eng ENG,GK,25-070,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/d8edc4be/Will-Dennis
+Ben Doak,sct SCO,"FW,MF",19-311,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/733f1a7d/Ben-Doak
+Romain Faivre,fr FRA,"FW,MF",27-066,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/745ca0a3/Romain-Faivre
+Remy Rees-Dottin,eng ENG,FW,19-196,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Bournemouth,/en/players/1db75ccb/Remy-Rees-Dottin
+Squad Total,,,26.1,4,44,360.0,4.0,6.0,5.0,11.0,5.0,1.0,1.0,12.0,0.0,6.0,5.2,4.5,9.6,59.0,127.0,126.0,1.5,1.25,2.75,1.25,2.5,1.49,1.11,2.6,1.29,2.41,,Bournemouth,
+Opponent Total,,,27.1,4,44,360.0,4.0,5.0,4.0,9.0,5.0,0.0,0.0,11.0,1.0,3.5,3.5,2.9,6.4,64.0,133.0,131.0,1.25,1.0,2.25,1.25,2.25,0.86,0.73,1.59,0.86,1.59,,Bournemouth,
+Trai Hume,nir NIR,DF,23-184,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.2,3.0,17.0,15.0,0.0,0.0,0.0,0.0,0.0,0.02,0.04,0.05,0.02,0.05,Matches,Sunderland,/en/players/4fa3a3a4/Trai-Hume
+Reinildo Mandava,mz MOZ,DF,31-240,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,20.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/c20bdcd7/Reinildo-Mandava
+Robin Roefs,nl NED,GK,22-244,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/349fa918/Robin-Roefs
+Granit Xhaka,ch SUI,MF,32-356,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.3,0.3,2.0,27.0,4.0,0.0,0.25,0.25,0.0,0.25,0.01,0.07,0.08,0.01,0.08,Matches,Sunderland,/en/players/e61b8aee/Granit-Xhaka
+Noah Sadiki,cd COD,MF,20-275,4,4,353.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,8.0,10.0,14.0,0.0,0.0,0.0,0.0,0.0,0.01,0.03,0.04,0.01,0.04,Matches,Sunderland,/en/players/645481cc/Noah-Sadiki
+Habib Diarra,sn SEN,MF,21-258,4,4,345.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6,0.6,0.0,0.6,10.0,13.0,17.0,0.0,0.0,0.0,0.0,0.0,0.15,0.01,0.16,0.15,0.16,Matches,Sunderland,/en/players/6d0fe035/Habib-Diarra
+Chemsdine Talbi,ma MAR,FW,20-132,4,4,305.0,3.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.1,0.6,2.0,3.0,22.0,0.0,0.3,0.3,0.0,0.3,0.15,0.04,0.19,0.15,0.19,Matches,Sunderland,/en/players/47ce793b/Chemsdine-Talbi
+Omar Alderete,py PAR,DF,28-266,4,3,308.0,3.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,6.0,18.0,0.0,0.0,0.29,0.29,0.0,0.29,0.03,0.01,0.04,0.03,0.04,Matches,Sunderland,/en/players/bb08bce9/Omar-Alderete
+Simon Adingra,ci CIV,FW,23-260,4,3,231.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.5,0.6,5.0,2.0,28.0,0.0,0.0,0.0,0.0,0.0,0.05,0.2,0.25,0.05,0.25,Matches,Sunderland,/en/players/4dcec659/Simon-Adingra
+Eliezer Mayenda,es ESP,FW,20-133,3,3,201.0,2.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.3,0.7,2.0,0.0,5.0,0.45,0.0,0.45,0.45,0.45,0.18,0.11,0.29,0.18,0.29,Matches,Sunderland,/en/players/6a021e43/Eliezer-Mayenda
+Nordi Mukiele,fr FRA,DF,27-321,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.1,2.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.04,0.03,0.07,0.04,0.07,Matches,Sunderland,/en/players/ac73ec79/Nordi-Mukiele
+Daniel Ballard,nir NIR,DF,25-361,2,2,98.0,1.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.2,0.2,0.3,0.5,0.0,1.0,0.0,0.92,0.0,0.92,0.92,0.92,0.17,0.28,0.45,0.17,0.45,Matches,Sunderland,/en/players/38f300f3/Daniel-Ballard
+Wilson Isidor,fr FRA,FW,25-022,4,1,158.0,1.8,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,3.0,7.0,1.14,0.0,1.14,1.14,1.14,0.22,0.0,0.22,0.22,0.22,Matches,Sunderland,/en/players/a671316d/Wilson-Isidor
+Jenson Seelt,nl NED,DF,22-118,2,1,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/ec75ee25/Jenson-Seelt
+Enzo Le Fée,fr FRA,"FW,MF",25-227,3,1,133.0,1.5,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.8,0.0,0.2,0.2,2.0,3.0,14.0,0.68,0.0,0.68,0.0,0.0,0.56,0.14,0.7,0.03,0.17,Matches,Sunderland,/en/players/6f806d99/Enzo-Le-Fee
+Patrick Roberts,eng ENG,"MF,FW",28-225,1,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Sunderland,/en/players/59d93937/Patrick-Roberts
+Brian Brobbey,nl NED,FW,23-229,1,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/4c184730/Brian-Brobbey
+Marc Guiu,es ESP,FW,19-257,2,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,Sunderland,/en/players/d3d774cc/Marc-Guiu
+Lutsharel Geertruida,nl NED,MF,25-062,1,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/242e1043/Lutsharel-Geertruida
+Chris Rigg,eng ENG,FW,18-092,2,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sunderland,/en/players/35741fe2/Chris-Rigg
+Harrison Jones,eng ENG,MF,20-267,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/2a78981b/Harrison-Jones
+Arthur Masuaku,cd COD,"DF,MF",31-315,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/57df7a11/Arthur-Masuaku
+Dan Neil,eng ENG,MF,23-279,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/a47ad0f5/Dan-Neil
+Anthony Patterson,eng ENG,GK,25-131,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/b2470c6f/Anthony-Patterson
+Bertrand Traoré,bf BFA,"FW,MF",30-012,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Sunderland,/en/players/c47541e0/Bertrand-Traore
+Squad Total,,,25.0,4,44,360.0,4.0,5.0,3.0,8.0,4.0,1.0,1.0,5.0,0.0,3.4,2.7,2.1,4.7,57.0,141.0,141.0,1.25,0.75,2.0,1.0,1.75,0.86,0.51,1.37,0.66,1.18,,Sunderland,
+Opponent Total,,,26.9,4,44,360.0,4.0,3.0,3.0,6.0,3.0,0.0,1.0,4.0,0.0,4.5,3.7,2.8,6.5,49.0,153.0,150.0,0.75,0.75,1.5,0.75,1.5,1.13,0.7,1.83,0.93,1.63,,Sunderland,
+Dan Burn,eng ENG,DF,33-132,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,Newcastle United,/en/players/b2d31e83/Dan-Burn
+Bruno Guimarães,br BRA,MF,27-306,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.2,0.2,0.1,0.3,3.0,26.0,11.0,0.25,0.0,0.25,0.25,0.25,0.06,0.02,0.08,0.06,0.08,Matches,Newcastle United,/en/players/82518f62/Bruno-Guimaraes
+Valentino Livramento,eng ENG,DF,22-310,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,9.0,19.0,25.0,0.0,0.25,0.25,0.0,0.25,0.0,0.05,0.05,0.0,0.05,Matches,Newcastle United,/en/players/afed6722/Valentino-Livramento
+Nick Pope,eng ENG,GK,33-152,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle United,/en/players/4b40d9ca/Nick-Pope
+Fabian Schär,ch SUI,DF,33-272,4,4,350.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,3.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02,0.03,0.05,0.02,0.05,Matches,Newcastle United,/en/players/c8aa95da/Fabian-Schar
+Sandro Tonali,it ITA,MF,25-133,4,4,335.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.6,0.8,10.0,27.0,8.0,0.0,0.0,0.0,0.0,0.0,0.06,0.16,0.22,0.06,0.22,Matches,Newcastle United,/en/players/0db169ae/Sandro-Tonali
+Kieran Trippier,eng ENG,DF,34-364,4,4,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,4.0,30.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,Newcastle United,/en/players/21512407/Kieran-Trippier
+Harvey Barnes,eng ENG,FW,27-283,4,3,266.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.7,1.0,13.0,14.0,27.0,0.0,0.0,0.0,0.0,0.0,0.13,0.23,0.35,0.13,0.35,Matches,Newcastle United,/en/players/3ea50f67/Harvey-Barnes
+Joelinton,br BRA,MF,29-035,3,3,221.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.7,0.7,5.0,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.02,0.28,0.3,0.02,0.3,Matches,Newcastle United,/en/players/c17bfb65/Joelinton
+Anthony Elanga,se SWE,FW,23-144,4,2,207.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.3,0.9,9.0,2.0,21.0,0.0,0.0,0.0,0.0,0.0,0.25,0.13,0.38,0.25,0.38,Matches,Newcastle United,/en/players/2fba6108/Anthony-Elanga
+Jacob Murphy,eng ENG,FW,30-206,3,2,163.0,1.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.9,0.9,0.2,1.1,5.0,5.0,30.0,0.0,0.55,0.55,0.0,0.55,0.5,0.08,0.58,0.5,0.58,Matches,Newcastle United,/en/players/de112b84/Jacob-Murphy
+Anthony Gordon,eng ENG,FW,24-206,2,2,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.1,1.1,0.1,1.2,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.72,0.06,0.78,0.72,0.78,Matches,Newcastle United,/en/players/2bd83368/Anthony-Gordon
+William Osula,dk DEN,FW,22-045,4,1,132.0,1.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,1.0,1.0,10.0,0.68,0.0,0.68,0.68,0.68,0.27,0.05,0.33,0.27,0.33,Matches,Newcastle United,/en/players/7b355808/William-Osula
+Sven Botman,nl NED,DF,25-249,2,1,68.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle United,/en/players/ccce7025/Sven-Botman
+Nick Woltemade,de GER,FW,23-216,1,1,64.0,0.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,0.0,0.0,3.0,1.41,0.0,1.41,1.41,1.41,0.39,0.04,0.43,0.39,0.43,Matches,Newcastle United,/en/players/7ca196eb/Nick-Woltemade
+Jacob Ramsey,eng ENG,MF,24-113,2,1,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,3.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.04,0.42,0.46,0.04,0.46,Matches,Newcastle United,/en/players/1544f145/Jacob-Ramsey
+Lewis Miley,eng ENG,MF,19-140,3,0,78.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.02,0.04,0.06,0.02,0.06,Matches,Newcastle United,/en/players/2c6835e5/Lewis-Miley
+Lewis Hall,eng ENG,DF,21-010,2,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Newcastle United,/en/players/da011f18/Lewis-Hall
+Joe Willock,eng ENG,MF,26-029,1,0,26.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.32,0.0,0.32,0.32,0.32,Matches,Newcastle United,/en/players/a3b03921/Joe-Willock
+Malick Thiaw,de GER,DF,24-041,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle United,/en/players/ff5ea0bf/Malick-Thiaw
+Emil Krafth,se SWE,DF,31-047,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/77cf6852/Emil-Krafth
+Jamaal Lascelles,eng ENG,DF,31-311,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/450ab6fc/Jamaal-Lascelles
+Aaron Ramsdale,eng ENG,GK,27-127,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/466fb2c5/Aaron-Ramsdale
+Park Seungsoo,kr KOR,MF,18-185,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle United,/en/players/b6aabcf8/Park-Seungsoo
+Squad Total,,,28.5,4,44,360.0,4.0,3.0,2.0,5.0,3.0,0.0,0.0,5.0,1.0,4.4,4.4,3.7,8.1,70.0,179.0,176.0,0.75,0.5,1.25,0.75,1.25,1.1,0.92,2.01,1.1,2.01,,Newcastle United,
+Opponent Total,,,27.1,4,44,360.0,4.0,3.0,3.0,6.0,3.0,0.0,0.0,9.0,1.0,2.1,2.1,1.8,3.9,52.0,123.0,121.0,0.75,0.75,1.5,0.75,1.5,0.52,0.46,0.98,0.52,0.98,,Newcastle United,
+Tyrone Mings,eng ENG,DF,32-189,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.3,1.0,22.0,1.0,0.0,0.0,0.0,0.0,0.0,0.07,0.02,0.09,0.07,0.09,Matches,Aston Villa,/en/players/8397a50c/Tyrone-Mings
+Morgan Rogers,eng ENG,"FW,MF",23-054,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.3,0.5,6.0,13.0,23.0,0.0,0.0,0.0,0.0,0.0,0.06,0.07,0.13,0.06,0.13,Matches,Aston Villa,/en/players/2e5915f1/Morgan-Rogers
+Ollie Watkins,eng ENG,FW,29-262,4,4,352.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,1.1,0.4,1.5,8.0,5.0,22.0,0.0,0.0,0.0,0.0,0.0,0.28,0.09,0.37,0.28,0.37,Matches,Aston Villa,/en/players/aed3a70f/Ollie-Watkins
+Matty Cash,pl POL,DF,28-042,4,4,343.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.4,0.4,3.0,12.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.11,0.11,0.0,0.11,Matches,Aston Villa,/en/players/2389cdc2/Matty-Cash
+John McGinn,sct SCO,"FW,MF",30-335,4,4,319.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,4.0,15.0,14.0,0.0,0.0,0.0,0.0,0.0,0.01,0.2,0.21,0.01,0.21,Matches,Aston Villa,/en/players/90f91999/John-McGinn
+Youri Tielemans,be BEL,MF,28-134,4,4,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,8.0,21.0,10.0,0.0,0.0,0.0,0.0,0.0,0.04,0.05,0.09,0.04,0.09,Matches,Aston Villa,/en/players/56f7a928/Youri-Tielemans
+Lucas Digne,fr FRA,DF,32-060,4,3,251.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,2.0,4.0,26.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Aston Villa,/en/players/1b84dbe1/Lucas-Digne
+Ezri Konsa,eng ENG,DF,27-330,3,3,245.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Aston Villa,/en/players/0313a347/Ezri-Konsa
+Marco Bizot,nl NED,GK,34-192,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/3d214e5f/Marco-Bizot
+Emiliano Martínez,ar ARG,GK,33-016,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/7956236f/Emiliano-Martinez
+Amadou Onana,be BEL,MF,24-033,2,2,153.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,2.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,Aston Villa,/en/players/828657ff/Amadou-Onana
+Boubacar Kamara,fr FRA,"MF,DF",25-299,2,2,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Aston Villa,/en/players/cc77354e/Boubacar-Kamara
+Emi Buendía,ar ARG,"MF,FW",28-267,3,1,174.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.3,0.6,7.0,13.0,10.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.33,0.16,0.33,Matches,Aston Villa,/en/players/66b76d44/Emi-Buendia
+Donyell Malen,nl NED,"FW,MF",26-252,4,1,124.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,2.0,11.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,Aston Villa,/en/players/116c35df/Donyell-Malen
+Ian Maatsen,nl NED,DF,23-192,2,1,114.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,2.0,7.0,11.0,0.0,0.0,0.0,0.0,0.0,0.12,0.14,0.26,0.12,0.26,Matches,Aston Villa,/en/players/cab9634e/Ian-Maatsen
+Pau Torres,es ESP,DF,28-245,2,1,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,5.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Aston Villa,/en/players/532e1e4f/Pau-Torres
+Evann Guessand,ci CIV,"FW,MF",24-079,3,1,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Aston Villa,/en/players/b73f17f8/Evann-Guessand
+Lamare Bogarde,nl NED,MF,21-256,3,1,102.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/bca5c4a7/Lamare-Bogarde
+Harvey Elliott,eng ENG,"MF,FW",22-167,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/b9e1436c/Harvey-Elliott
+Bradley Paul Burrowes,eng ENG,DF,17-198,1,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/802ee5ca/Bradley-Paul-Burrowes
+Victor Lindelöf,se SWE,MF,31-063,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,/en/players/f5deef4c/Victor-Lindelof
+Samuel Iling-Junior,eng ENG,DF,21-349,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/ba492306/Samuel-Iling-Junior
+Jamaldeen Jimoh,eng ENG,MF,18-351,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/1e711234/Jamaldeen-Jimoh
+Travis Patterson,eng ENG,DF,19-347,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/e0b5d31b/Travis-Patterson
+Sam Proctor,eng ENG,GK,18-271,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/b96cec48/Sam-Proctor
+Triston Rowe,eng ENG,DF,19-123,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/3fcc22d5/Triston-Rowe
+Jadon Sancho,eng ENG,"FW,MF",25-177,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/dbf053da/Jadon-Sancho
+James Wright,eng ENG,GK,20-290,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Aston Villa,/en/players/9417a430/James-Wright
+Squad Total,,,28.5,4,44,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,2.9,2.9,2.5,5.4,58.0,164.0,161.0,0.0,0.0,0.0,0.0,0.0,0.73,0.62,1.35,0.73,1.35,,Aston Villa,
+Opponent Total,,,27.3,4,44,360.0,4.0,4.0,1.0,5.0,3.0,1.0,1.0,8.0,0.0,7.3,6.5,5.7,12.2,73.0,130.0,129.0,1.0,0.25,1.25,0.75,1.0,1.82,1.43,3.25,1.62,3.06,,Aston Villa,
+Marc Guéhi,eng ENG,DF,25-067,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,1.0,13.0,1.0,0.25,0.0,0.25,0.25,0.25,0.05,0.01,0.06,0.05,0.06,Matches,Crystal Palace,/en/players/d0706b27/Marc-Guehi
+Dean Henderson,eng ENG,GK,28-190,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/e5a76dfe/Dean-Henderson
+Maxence Lacroix,fr FRA,DF,25-165,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.5,0.6,0.0,6.0,1.0,0.0,0.25,0.25,0.0,0.25,0.03,0.13,0.15,0.03,0.15,Matches,Crystal Palace,/en/players/277c49ed/Maxence-Lacroix
+Tyrick Mitchell,eng ENG,"DF,MF",26-017,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2,0.2,13.0,6.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Crystal Palace,/en/players/5cbd1eb0/Tyrick-Mitchell
+Daniel Muñoz,co COL,"DF,MF",29-115,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.2,0.2,1.5,1.6,6.0,8.0,19.0,0.0,0.25,0.25,0.0,0.25,0.04,0.37,0.41,0.04,0.41,Matches,Crystal Palace,/en/players/778ef829/Daniel-Munoz
+Chris Richards,us USA,DF,25-174,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Crystal Palace,/en/players/0a3d6d2b/Chris-Richards
+Jean-Philippe Mateta,fr FRA,FW,28-082,4,4,351.0,3.9,1.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,1.8,1.0,0.0,1.0,2.0,4.0,13.0,0.26,0.0,0.26,0.0,0.0,0.47,0.0,0.47,0.27,0.27,Matches,Crystal Palace,/en/players/50e6dc35/Jean-Philippe-Mateta
+Will Hughes,eng ENG,MF,30-154,4,4,319.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.2,0.2,0.5,0.6,1.0,22.0,3.0,0.0,0.0,0.0,0.0,0.0,0.04,0.13,0.18,0.04,0.18,Matches,Crystal Palace,/en/players/a0666d3e/Will-Hughes
+Ismaila Sarr,sn SEN,"MF,FW",27-205,3,3,270.0,3.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0,2.0,4.0,8.0,12.0,0.67,0.0,0.67,0.67,0.67,0.66,0.02,0.68,0.66,0.68,Matches,Crystal Palace,/en/players/bfdb33aa/Ismaila-Sarr
+Adam Wharton,eng ENG,MF,21-224,3,3,226.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,Crystal Palace,/en/players/4b542852/Adam-Wharton
+Daichi Kamada,jp JPN,MF,29-044,2,2,175.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.6,0.7,2.0,10.0,7.0,0.0,0.0,0.0,0.0,0.0,0.03,0.3,0.34,0.03,0.34,Matches,Crystal Palace,/en/players/15b287da/Daichi-Kamada
+Jefferson Lerma,co COL,MF,30-328,4,1,133.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,Crystal Palace,/en/players/9b5ce51a/Jefferson-Lerma
+Yeremi Pino,es ESP,MF,22-333,2,1,103.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.4,1.1,3.0,8.0,11.0,0.0,0.0,0.0,0.0,0.0,0.66,0.31,0.97,0.66,0.97,Matches,Crystal Palace,/en/players/540ec57b/Yeremi-Pino
+Justin Devenny,nir NIR,"FW,MF",21-342,4,1,100.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.2,5.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.04,0.11,0.15,0.04,0.15,Matches,Crystal Palace,/en/players/6c2b66fc/Justin-Devenny
+Eberechi Eze,eng ENG,MF,27-081,1,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,Crystal Palace,/en/players/ae4fc6a4/Eberechi-Eze
+Romain Esse,eng ENG,FW,20-128,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/87189f25/Romain-Esse
+Christantus Uche,ng NGA,MF,22-122,1,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,Crystal Palace,/en/players/87941696/Christantus-Uche
+Nathaniel Clyne,eng ENG,DF,34-166,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/0442183b/Nathaniel-Clyne
+Odsonne Édouard,fr FRA,FW,27-245,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Crystal Palace,/en/players/0562b7f1/Odsonne-Edouard
+Walter Benítez,ar ARG,GK,32-242,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/8a2248b4/Walter-Benitez
+Jaydee Canvot,fr FRA,MF,19-051,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/3684108d/Jaydee-Canvot
+Rio Cardines,tt TRI,MF,19-079,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/702812fe/Rio-Cardines
+Remi Matthews,eng ENG,GK,31-220,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/27f4f772/Remi-Matthews
+Jesurun Rak Sakyi,eng ENG,"FW,MF",22-348,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/45685411/Jesurun-Rak-Sakyi
+Kaden Rodney,eng ENG,"DF,MF",20-346,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/49375cdd/Kaden-Rodney
+Borna Sosa,hr CRO,"DF,MF",27-240,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Crystal Palace,/en/players/af0d79a9/Borna-Sosa
+Squad Total,,,26.9,4,44,360.0,4.0,4.0,2.0,6.0,3.0,1.0,1.0,10.0,0.0,6.2,5.4,4.2,9.6,41.0,114.0,112.0,1.0,0.5,1.5,0.75,1.25,1.54,1.06,2.59,1.34,2.4,,Crystal Palace,
+Opponent Total,,,26.2,4,44,360.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,8.0,0.0,4.0,4.0,2.9,6.9,53.0,185.0,184.0,0.25,0.25,0.5,0.25,0.5,1.0,0.74,1.73,1.0,1.73,,Crystal Palace,
+Jarrod Bowen,eng ENG,FW,28-272,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.5,0.5,0.8,1.3,14.0,8.0,32.0,0.25,0.0,0.25,0.25,0.25,0.12,0.21,0.33,0.12,0.33,Matches,West Ham United,/en/players/79c84d1c/Jarrod-Bowen
+El Hadji Malick Diouf,sn SEN,DF,20-264,4,4,360.0,4.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.5,0.7,6.0,7.0,19.0,0.0,0.5,0.5,0.0,0.5,0.04,0.13,0.18,0.04,0.18,Matches,West Ham United,/en/players/bd5eb2e5/El-Hadji-Malick-Diouf
+Mads Hermansen,dk DEN,GK,25-069,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/c924b17d/Mads-Hermansen
+Max Kilman,eng ENG,DF,28-118,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0,0.4,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.01,0.11,0.1,0.11,Matches,West Ham United,/en/players/d0f72bf1/Max-Kilman
+Lucas Paquetá,br BRA,"MF,FW",28-022,4,4,337.0,3.7,2.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,1.4,0.6,0.1,0.8,2.0,26.0,13.0,0.53,0.0,0.53,0.27,0.27,0.38,0.03,0.41,0.17,0.2,Matches,West Ham United,/en/players/9b6f7fd5/Lucas-Paqueta
+James Ward-Prowse,eng ENG,MF,30-321,4,4,323.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.7,0.8,1.0,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.03,0.2,0.23,0.03,0.23,Matches,West Ham United,/en/players/3515d404/James-Ward-Prowse
+Tomáš Souček,cz CZE,MF,30-203,4,3,232.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.2,0.0,0.2,1.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,West Ham United,/en/players/6613c819/Tomas-Soucek
+Niclas Füllkrug,de GER,FW,32-221,3,3,198.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2,0.5,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.13,0.08,0.21,0.13,0.21,Matches,West Ham United,/en/players/4f16405e/Niclas-Fullkrug
+Kyle Walker-Peters,eng ENG,DF,28-158,3,2,201.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,4.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.02,0.01,0.03,0.02,0.03,Matches,West Ham United,/en/players/984a5a64/Kyle-Walker-Peters
+Nayef Aguerd,ma MAR,DF,29-172,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,West Ham United,/en/players/288e1e13/Nayef-Aguerd
+Konstantinos Mavropanos,gr GRE,DF,27-281,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,West Ham United,/en/players/00963611/Konstantinos-Mavropanos
+Aaron Wan-Bissaka,cd COD,DF,27-296,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,5.0,6.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,West Ham United,/en/players/9e525177/Aaron-Wan-Bissaka
+Mateus Fernandes,pt POR,"FW,MF",21-070,2,2,141.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,3.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.34,0.0,0.34,Matches,West Ham United,/en/players/ef491564/Mateus-Fernandes
+Jean-Clair Todibo,fr FRA,DF,25-262,2,2,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/88f130ed/Jean-Clair-Todibo
+Guido Rodríguez,ar ARG,MF,31-159,1,1,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,West Ham United,/en/players/34e393f2/Guido-Rodriguez
+Crysencio Summerville,nl NED,FW,23-323,2,1,69.0,0.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,2.0,3.0,6.0,0.0,1.3,1.3,0.0,1.3,0.0,0.09,0.09,0.0,0.09,Matches,West Ham United,/en/players/df04eb4b/Crysencio-Summerville
+Callum Wilson,eng ENG,FW,33-203,4,0,115.0,1.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.1,1.1,0.0,1.1,1.0,1.0,5.0,0.78,0.0,0.78,0.78,0.78,0.85,0.03,0.89,0.85,0.89,Matches,West Ham United,/en/players/c596fcb0/Callum-Wilson
+Freddie Potts,eng ENG,MF,22-006,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/86bf27f0/Freddie-Potts
+Luis Guilherme,br BRA,FW,19-221,1,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/b7672d43/Luis-Guilherme
+Soungoutou Magassa,fr FRA,MF,21-345,1,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham United,/en/players/dfc5d4fa/Soungoutou-Magassa
+Andy Irving,sct SCO,MF,25-128,3,0,26.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,West Ham United,/en/players/b1be9fc0/Andy-Irving
+Edson Álvarez,mx MEX,"DF,MF",27-329,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/8b3ab7ad/Edson-Alvarez
+Alphonse Areola,fr FRA,GK,32-203,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/2f965a72/Alphonse-Areola
+Łukasz Fabiański,pl POL,GK,40-153,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/9328b835/Lukasz-Fabianski
+Igor,br BRA,DF,27-223,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/a4e85758/Igor
+Callum Marshall,nir NIR,FW,20-294,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/3a27f1bf/Callum-Marshall
+Oliver Scarles,eng ENG,MF,19-280,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,West Ham United,/en/players/242e5e6d/Oliver-Scarles
+Squad Total,,,27.5,4,44,360.0,4.0,4.0,3.0,7.0,3.0,1.0,1.0,1.0,1.0,4.3,3.5,3.2,6.8,44.0,121.0,119.0,1.0,0.75,1.75,0.75,1.5,1.08,0.8,1.89,0.89,1.69,,West Ham United,
+Opponent Total,,,25.2,4,44,360.0,4.0,11.0,9.0,20.0,11.0,0.0,0.0,2.0,0.0,5.5,5.5,4.6,10.1,78.0,155.0,153.0,2.75,2.25,5.0,2.75,5.0,1.36,1.16,2.52,1.36,2.52,,West Ham United,
+Elliot Anderson,eng ENG,MF,22-316,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,1.1,1.5,7.0,36.0,10.0,0.0,0.25,0.25,0.0,0.25,0.1,0.27,0.36,0.1,0.36,Matches,Nottingham Forest,/en/players/de31038e/Elliot-Anderson
+Nikola Milenković,rs SRB,DF,27-341,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Nottingham Forest,/en/players/bee704fc/Nikola-Milenkovic
+Matz Sels,be BEL,GK,33-204,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/834b5c4c/Matz-Sels
+Neco Williams,wls WAL,DF,24-158,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.3,0.4,11.0,19.0,22.0,0.0,0.0,0.0,0.0,0.0,0.01,0.08,0.09,0.01,0.09,Matches,Nottingham Forest,/en/players/dd323728/Neco-Williams
+Ibrahim Sangaré,ci CIV,MF,27-290,4,4,337.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Nottingham Forest,/en/players/bced0375/Ibrahim-Sangare
+Morgan Gibbs-White,eng ENG,MF,25-234,4,4,326.0,3.6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.3,1.0,7.0,25.0,34.0,0.0,0.28,0.28,0.0,0.28,0.19,0.08,0.27,0.19,0.27,Matches,Nottingham Forest,/en/players/32f60ed8/Morgan-Gibbs-White
+Callum Hudson-Odoi,eng ENG,FW,24-315,4,4,308.0,3.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.6,0.9,14.0,10.0,36.0,0.29,0.0,0.29,0.29,0.29,0.11,0.16,0.27,0.11,0.27,Matches,Nottingham Forest,/en/players/15f3ec41/Callum-Hudson-Odoi
+Murillo,br BRA,DF,23-076,4,4,306.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/1704b0b8/Murillo
+Chris Wood,nz NZL,FW,33-285,4,4,296.0,3.3,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.6,1.6,0.2,1.7,0.0,5.0,7.0,0.61,0.0,0.61,0.61,0.61,0.48,0.05,0.53,0.48,0.53,Matches,Nottingham Forest,/en/players/4e9a0555/Chris-Wood
+Dan Ndoye,ch SUI,FW,24-328,4,4,295.0,3.3,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.4,0.5,18.0,6.0,30.0,0.31,0.31,0.61,0.31,0.61,0.03,0.13,0.16,0.03,0.16,Matches,Nottingham Forest,/en/players/8e697a8f/Dan-Ndoye
+Ola Aina,ng NGA,DF,28-345,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.2,5.0,11.0,8.0,0.0,0.0,0.0,0.0,0.0,0.01,0.05,0.06,0.01,0.06,Matches,Nottingham Forest,/en/players/246d153b/Ola-Aina
+Morato,br BRA,DF,24-080,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/0f41e2ee/Morato
+James Mcatee,eng ENG,"MF,FW",22-335,3,0,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,2.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.46,0.46,0.0,0.46,Matches,Nottingham Forest,/en/players/96593e89/James-Mcatee
+Nicolò Savona,it ITA,DF,22-183,1,0,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,Nottingham Forest,/en/players/e041497d/Nicolo-Savona
+Arnaud Kalimuendo,fr FRA,FW,23-241,3,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,4.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.19,0.02,0.21,0.19,0.21,Matches,Nottingham Forest,/en/players/bf4c41f9/Arnaud-Kalimuendo
+Igor Jesus,br BRA,FW,24-205,3,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.19,0.19,0.19,Matches,Nottingham Forest,/en/players/dbe24cce/Igor-Jesus
+Dilane Bakwa,fr FRA,FW,23-023,1,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/2b5a35e5/Dilane-Bakwa
+Ryan Yates,eng ENG,MF,27-301,3,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/c1fe2a48/Ryan-Yates
+Jota Silva,pt POR,FW,26-048,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nottingham Forest,/en/players/4d77e622/Jota-Silva
+Omari Hutchinson,eng ENG,"FW,MF",21-323,2,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.65,0.0,1.65,1.65,1.65,Matches,Nottingham Forest,/en/players/bd9553e6/Omari-Hutchinson
+Zach Abbott,eng ENG,DF,19-128,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/c103921a/Zach-Abbott
+Taiwo Awoniyi,ng NGA,FW,28-037,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/e5478b87/Taiwo-Awoniyi
+Willy Boly,ci CIV,DF,34-227,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/a4ac4b8f/Willy-Boly
+Jair Cunha,br BRA,DF,20-195,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/ac31d35e/Jair-Cunha
+Angus Gunn,sct SCO,GK,29-239,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/e082af5b/Angus-Gunn
+John,br BRA,GK,29-217,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/33a235af/John
+Douglas Luiz,br BRA,MF,27-132,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Nottingham Forest,/en/players/6f7d826d/Douglas-Luiz
+Squad Total,,,26.7,4,44,360.0,4.0,4.0,3.0,7.0,4.0,0.0,0.0,5.0,0.0,3.7,3.7,3.3,7.0,75.0,171.0,169.0,1.0,0.75,1.75,1.0,1.75,0.92,0.83,1.75,0.92,1.75,,Nottingham Forest,
+Opponent Total,,,26.0,4,44,360.0,4.0,8.0,5.0,13.0,6.0,2.0,2.0,6.0,0.0,6.7,5.2,4.7,9.9,75.0,129.0,127.0,2.0,1.25,3.25,1.5,2.75,1.69,1.17,2.85,1.31,2.47,,Nottingham Forest,
+Kiernan Dewsbury-Hall,eng ENG,MF,27-012,4,4,360.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.1,0.1,1.6,1.7,6.0,24.0,14.0,0.25,0.25,0.5,0.25,0.5,0.03,0.39,0.42,0.03,0.42,Matches,Everton,/en/players/5c74c0f5/Kiernan-Dewsbury-Hall
+James Garner,eng ENG,"DF,MF",24-189,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.2,0.2,0.7,0.8,2.0,19.0,6.0,0.25,0.0,0.25,0.25,0.25,0.04,0.17,0.21,0.04,0.21,Matches,Everton,/en/players/4e015693/James-Garner
+Michael Keane,eng ENG,DF,32-250,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.1,0.7,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.03,0.17,0.14,0.17,Matches,Everton,/en/players/c5b7c315/Michael-Keane
+Jake O'Brien,ie IRL,DF,24-126,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.4,3.0,10.0,16.0,0.0,0.0,0.0,0.0,0.0,0.08,0.01,0.09,0.08,0.09,Matches,Everton,/en/players/25f2ef01/Jake-OBrien
+Jordan Pickford,eng ENG,GK,31-195,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/4806ec67/Jordan-Pickford
+James Tarkowski,eng ENG,DF,32-303,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,3.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.02,0.12,0.1,0.12,Matches,Everton,/en/players/15ea812b/James-Tarkowski
+Idrissa Gana Gueye,sn SEN,MF,35-357,4,4,345.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.6,2.0,15.0,6.0,0.0,0.0,0.0,0.0,0.0,0.12,0.03,0.15,0.12,0.15,Matches,Everton,/en/players/72c812f3/Idrissa-Gana-Gueye
+Iliman Ndiaye,sn SEN,FW,25-196,4,4,332.0,3.7,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.3,1.3,0.5,1.8,10.0,5.0,18.0,0.54,0.0,0.54,0.54,0.54,0.35,0.13,0.48,0.35,0.48,Matches,Everton,/en/players/5ed97752/Iliman-Ndiaye
+Jack Grealish,eng ENG,FW,30-008,4,3,286.0,3.2,0.0,4.0,4.0,0.0,0.0,0.0,1.0,0.0,0.4,0.4,2.0,2.4,25.0,13.0,29.0,0.0,1.26,1.26,0.0,1.26,0.13,0.62,0.74,0.13,0.74,Matches,Everton,/en/players/b0b4fd3e/Jack-Grealish
+Beto,gw GNB,FW,27-230,4,3,266.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.8,1.8,0.2,2.0,1.0,2.0,13.0,0.34,0.0,0.34,0.34,0.34,0.61,0.06,0.67,0.61,0.67,Matches,Everton,/en/players/ed5c0319/Beto
+Tim Iroegbunam,eng ENG,MF,22-080,4,3,220.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.2,0.2,0.0,0.2,1.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Everton,/en/players/84c5ceea/Tim-Iroegbunam
+Carlos Alcaraz,ar ARG,"FW,MF",22-292,3,1,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Everton,/en/players/4abac767/Carlos-Alcaraz
+Thierno Barry,fr FRA,"FW,MF",22-332,4,1,99.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,2.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.42,0.42,0.42,Matches,Everton,/en/players/52c3244b/Thierno-Barry
+Vitaliy Mykolenko,ua UKR,DF,26-112,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/30d4a2e5/Vitaliy-Mykolenko
+Merlin Röhl,de GER,MF,23-075,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.1,0.26,0.36,0.1,0.36,Matches,Everton,/en/players/1f2c7b55/Merlin-Rohl
+Dwight McNeil,eng ENG,FW,25-300,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.4,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.1,0.64,1.74,1.1,1.74,Matches,Everton,/en/players/fc15fb84/Dwight-McNeil
+Harrison Armstrong,eng ENG,FW,18-242,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/de59e609/Harrison-Armstrong
+Séamus Coleman,ie IRL,FW,36-342,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,/en/players/0420d84f/Seamus-Coleman
+Adam Aznou,ma MAR,DF,19-108,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/e678d983/Adam-Aznou
+Elijah Campbell,eng ENG,DF,21-047,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/48ba3f58/Elijah-Campbell
+Youssef Chermiti,pt POR,FW,21-117,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/890f108d/Youssef-Chermiti
+Tyler Dibling,eng ENG,MF,19-190,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/bdcc89ae/Tyler-Dibling
+Tyler Onyango,eng ENG,MF,22-198,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/d86a1f3e/Tyler-Onyango
+Nathan Patterson,sct SCO,DF,23-337,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/230f0471/Nathan-Patterson
+Mark Travers,ie IRL,GK,26-123,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/fe558029/Mark-Travers
+Harry Tyrer,eng ENG,GK,23-286,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Everton,/en/players/af49fb14/Harry-Tyrer
+Squad Total,,,28.4,4,44,360.0,4.0,5.0,5.0,10.0,5.0,0.0,0.0,10.0,0.0,6.3,6.3,5.4,11.6,56.0,123.0,123.0,1.25,1.25,2.5,1.25,2.5,1.57,1.34,2.91,1.57,2.91,,Everton,
+Opponent Total,,,26.9,4,44,360.0,4.0,3.0,2.0,5.0,2.0,1.0,2.0,6.0,0.0,5.9,4.5,3.4,7.9,53.0,142.0,141.0,0.75,0.5,1.25,0.5,1.0,1.48,0.85,2.33,1.12,1.97,,Everton,
+Martin Dúbravka,sk SVK,GK,36-246,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/3a949a25/Martin-Dubravka
+Quilindschy Hartman,nl NED,DF,23-308,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,1.0,9.0,8.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.04,0.02,0.04,Matches,Burnley,/en/players/39e1138f/Quilindschy-Hartman
+Kyle Walker,eng ENG,DF,35-113,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/86dd77d1/Kyle-Walker
+Jaidon Anthony,eng ENG,"MF,FW",25-291,4,4,352.0,3.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,1.7,1.7,0.2,1.9,6.0,8.0,17.0,0.51,0.26,0.77,0.51,0.77,0.43,0.04,0.47,0.43,0.47,Matches,Burnley,/en/players/e4238fb1/Jaidon-Anthony
+Hjalmar Ekdal,se SWE,DF,26-332,4,4,352.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.01,0.01,0.01,Matches,Burnley,/en/players/3d554589/Hjalmar-Ekdal
+Maxime Estève,fr FRA,DF,23-115,4,4,352.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01,Matches,Burnley,/en/players/1a066e69/Maxime-Esteve
+Lyle Foster,za RSA,FW,25-015,4,4,333.0,3.7,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.7,0.7,0.4,1.1,3.0,3.0,19.0,0.27,0.0,0.27,0.27,0.27,0.2,0.1,0.3,0.2,0.3,Matches,Burnley,/en/players/f84a807c/Lyle-Foster
+Josh Cullen,ie IRL,MF,29-164,4,4,332.0,3.7,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.7,0.8,2.0,17.0,2.0,0.27,0.27,0.54,0.27,0.54,0.02,0.2,0.22,0.02,0.22,Matches,Burnley,/en/players/f6d7d690/Josh-Cullen
+Lesley Ugochukwu,fr FRA,MF,21-176,4,3,254.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.1,0.1,0.0,0.1,0.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.03,0.01,0.03,0.03,0.03,Matches,Burnley,/en/players/1df4a109/Lesley-Ugochukwu
+Hannibal Mejbri,tn TUN,MF,22-240,4,3,236.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.2,0.4,4.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0,0.06,0.07,0.13,0.06,0.13,Matches,Burnley,/en/players/ca22ccb0/Hannibal-Mejbri
+Josh Laurent,eng ENG,"MF,DF",30-135,4,2,189.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.3,2.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.05,0.08,0.14,0.05,0.14,Matches,Burnley,/en/players/f0068e0f/Josh-Laurent
+Jacob Bruun Larsen,dk DEN,"FW,MF",26-364,3,2,177.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.6,0.7,1.0,4.0,13.0,0.0,0.51,0.51,0.0,0.51,0.03,0.31,0.34,0.03,0.34,Matches,Burnley,/en/players/4e204552/Jacob-Bruun-Larsen
+Loum Tchaouna,fr FRA,MF,22-010,4,1,113.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1,0.3,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.17,0.09,0.25,0.17,0.25,Matches,Burnley,/en/players/a3c8b4d3/Loum-Tchaouna
+Oliver Sonne,pe PER,"DF,FW",24-312,3,1,104.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.06,0.03,0.06,Matches,Burnley,/en/players/b66b8d5e/Oliver-Sonne
+Florentino Luís,pt POR,MF,26-030,1,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/881cd6be/Florentino-Luis
+Zian Flemming,nl NED,FW,27-048,2,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.32,0.0,0.32,Matches,Burnley,/en/players/b3f36e72/Zian-Flemming
+Joe Worrall,eng ENG,DF,28-251,3,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/a5212312/Joe-Worrall
+Marcus Edwards,eng ENG,FW,26-289,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/57760e66/Marcus-Edwards
+Armando Broja,al ALB,FW,24-008,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Burnley,/en/players/97220da2/Armando-Broja
+Bashir Humphreys,eng ENG,DF,22-187,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/d2b32e91/Bashir-Humphreys
+Lucas,br BRA,DF,24-178,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/5d68f5b2/Lucas
+Aaron Ramsey,eng ENG,MF,22-240,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/e1618c22/Aaron-Ramsey
+Max Weiß,de GER,GK,21-095,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Burnley,/en/players/882228c2/Max-Weiss
+Squad Total,,,27.3,4,44,360.0,4.0,4.0,3.0,7.0,4.0,0.0,0.0,7.0,1.0,3.2,3.2,2.5,5.8,28.0,89.0,88.0,1.0,0.75,1.75,1.0,1.75,0.81,0.63,1.44,0.81,1.44,,Burnley,
+Opponent Total,,,25.9,4,44,360.0,4.0,6.0,4.0,10.0,4.0,2.0,2.0,4.0,0.0,9.2,7.7,6.5,14.2,122.0,209.0,207.0,1.5,1.0,2.5,1.0,2.0,2.3,1.64,3.94,1.92,3.56,,Burnley,
+Cristian Romero,ar ARG,DF,27-144,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2,0.2,1.0,15.0,0.0,0.0,0.25,0.25,0.0,0.25,0.02,0.04,0.05,0.02,0.05,Matches,Tottenham Hotspur,/en/players/a3d94a58/Cristian-Romero
+Guglielmo Vicario,it ITA,GK,28-346,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/77d6fd4d/Guglielmo-Vicario
+Mohammed Kudus,gh GHA,"FW,MF",25-047,4,4,349.0,3.9,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,1.1,1.6,10.0,6.0,25.0,0.0,0.52,0.52,0.0,0.52,0.14,0.29,0.42,0.14,0.42,Matches,Tottenham Hotspur,/en/players/b62878a5/Mohammed-Kudus
+Micky van de Ven,nl NED,DF,24-152,4,4,349.0,3.9,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.7,0.7,0.1,0.7,4.0,6.0,0.0,0.26,0.0,0.26,0.26,0.26,0.17,0.02,0.19,0.17,0.19,Matches,Tottenham Hotspur,/en/players/8fe2a392/Micky-van-de-Ven
+Pape Matar Sarr,sn SEN,MF,23-004,4,4,345.0,3.8,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.4,0.8,3.0,12.0,14.0,0.26,0.26,0.52,0.26,0.52,0.08,0.12,0.2,0.08,0.2,Matches,Tottenham Hotspur,/en/players/feb5d972/Pape-Matar-Sarr
+Pedro Porro,es ESP,DF,26-005,4,4,340.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.6,0.7,10.0,15.0,7.0,0.0,0.0,0.0,0.0,0.0,0.03,0.15,0.18,0.03,0.18,Matches,Tottenham Hotspur,/en/players/27d0a506/Pedro-Porro
+Djed Spence,eng ENG,DF,25-040,4,4,340.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.0,0.2,15.0,20.0,21.0,0.0,0.0,0.0,0.0,0.0,0.05,0.01,0.06,0.05,0.06,Matches,Tottenham Hotspur,/en/players/9bc9a519/Djed-Spence
+Richarlison,br BRA,FW,28-131,4,3,257.0,2.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.8,0.8,0.7,1.6,2.0,5.0,4.0,0.7,0.35,1.05,0.7,1.05,0.3,0.25,0.54,0.3,0.54,Matches,Tottenham Hotspur,/en/players/fa031b34/Richarlison
+João Palhinha,pt POR,MF,30-071,4,3,243.0,2.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,7.0,3.0,0.37,0.0,0.37,0.37,0.37,0.13,0.0,0.13,0.13,0.13,Matches,Tottenham Hotspur,/en/players/a78ff07f/Joao-Palhinha
+Brennan Johnson,wls WAL,FW,24-118,4,3,220.0,2.4,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.9,0.9,0.2,1.1,7.0,5.0,17.0,0.82,0.0,0.82,0.82,0.82,0.37,0.07,0.44,0.37,0.44,Matches,Tottenham Hotspur,/en/players/0cd31129/Brennan-Johnson
+Rodrigo Bentancur,uy URU,MF,28-085,3,2,200.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Tottenham Hotspur,/en/players/3b8674e6/Rodrigo-Bentancur
+Lucas Bergvall,se SWE,MF,19-228,4,2,200.0,2.2,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.3,0.5,6.0,10.0,10.0,0.45,0.45,0.9,0.45,0.9,0.13,0.11,0.25,0.13,0.25,Matches,Tottenham Hotspur,/en/players/a109e5c8/Lucas-Bergvall
+Mathys Tel,fr FRA,FW,20-144,3,1,99.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Tottenham Hotspur,/en/players/829aa60c/Mathys-Tel
+Archie Gray,eng ENG,MF,19-190,1,1,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/f58515f5/Archie-Gray
+Xavi Simons,nl NED,FW,22-150,1,1,70.0,0.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.2,6.0,4.0,6.0,0.0,1.29,1.29,0.0,1.29,0.04,0.16,0.2,0.04,0.2,Matches,Tottenham Hotspur,/en/players/da4d670f/Xavi-Simons
+Wilson Odobert,fr FRA,"FW,MF",20-294,4,0,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.4,2.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.37,0.16,0.52,0.37,0.52,Matches,Tottenham Hotspur,/en/players/35516eac/Wilson-Odobert
+Destiny Udogie,it ITA,DF,22-294,2,0,40.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.05,0.07,0.12,0.05,0.12,Matches,Tottenham Hotspur,/en/players/7cd520e8/Destiny-Udogie
+Dominic Solanke,eng ENG,FW,28-004,2,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.57,0.0,0.57,0.57,0.57,Matches,Tottenham Hotspur,/en/players/e77dc3b2/Dominic-Solanke
+Kevin Danso,at AUT,DF,26-364,2,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Tottenham Hotspur,/en/players/6e33125f/Kevin-Danso
+Ben Davies,wls WAL,"DF,MF",32-147,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/44781702/Ben-Davies
+Antonín Kinský,cz CZE,GK,22-189,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/b38ac6a4/Antonin-Kinsky
+Randal Kolo Muani,fr FRA,"FW,MF",26-287,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/c0b3669f/Randal-Kolo-Muani
+Manor Solomon,il ISR,"FW,MF",26-056,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/886f9aac/Manor-Solomon
+Luka Vušković,hr CRO,DF,18-206,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Tottenham Hotspur,/en/players/fd6bdbce/Luka-Vuskovic
+Squad Total,,,25.5,4,44,360.0,4.0,8.0,7.0,15.0,8.0,0.0,0.0,7.0,0.0,4.8,4.8,3.8,8.6,74.0,138.0,136.0,2.0,1.75,3.75,2.0,3.75,1.21,0.95,2.16,1.21,2.16,,Tottenham Hotspur,
+Opponent Total,,,26.4,4,44,360.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,5.0,1.0,4.6,4.6,4.0,8.6,50.0,115.0,114.0,0.25,0.25,0.5,0.25,0.5,1.15,1.01,2.16,1.15,2.16,,Tottenham Hotspur,
+Gabriel Magalhães,br BRA,DF,27-273,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,4.0,17.0,1.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Arsenal,/en/players/67ac5bb8/Gabriel-Magalhaes
+David Raya,es ESP,GK,30-003,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01,Matches,Arsenal,/en/players/98ea5115/David-Raya
+Martín Zubimendi,es ESP,MF,26-228,4,4,360.0,4.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,3.0,15.0,4.0,0.5,0.0,0.5,0.5,0.5,0.05,0.01,0.06,0.05,0.06,Matches,Arsenal,/en/players/3ee0dd59/Martin-Zubimendi
+Viktor Gyökeres,se SWE,FW,27-106,4,4,306.0,3.4,3.0,0.0,3.0,2.0,1.0,1.0,1.0,0.0,2.1,1.3,0.1,1.5,1.0,2.0,19.0,0.88,0.0,0.88,0.59,0.59,0.62,0.04,0.67,0.39,0.44,Matches,Arsenal,/en/players/4d5a9185/Viktor-Gyokeres
+Riccardo Calafiori,it ITA,DF,23-122,4,4,291.0,3.2,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,1.4,1.4,0.5,1.9,10.0,11.0,16.0,0.31,0.62,0.93,0.31,0.93,0.44,0.15,0.59,0.44,0.59,Matches,Arsenal,/en/players/aded8e6f/Riccardo-Calafiori
+Declan Rice,eng ENG,MF,26-247,4,3,285.0,3.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.7,7.0,13.0,1.0,0.0,0.32,0.32,0.0,0.32,0.05,0.16,0.21,0.05,0.21,Matches,Arsenal,/en/players/1c7012b8/Declan-Rice
+Jurriën Timber,nl NED,DF,24-093,4,3,263.0,2.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,1.1,1.1,0.2,1.3,7.0,20.0,8.0,0.68,0.34,1.03,0.68,1.03,0.38,0.06,0.44,0.38,0.44,Matches,Arsenal,/en/players/41034650/Jurrien-Timber
+Noni Madueke,eng ENG,FW,23-192,4,3,259.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.8,1.0,15.0,8.0,35.0,0.0,0.0,0.0,0.0,0.0,0.05,0.29,0.34,0.05,0.34,Matches,Arsenal,/en/players/bf34eebd/Noni-Madueke
+William Saliba,fr FRA,DF,24-178,3,3,184.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/972aeb2a/William-Saliba
+Martin Ødegaard,no NOR,MF,26-275,4,3,165.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.3,8.0,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.08,0.08,0.16,0.08,0.16,Matches,Arsenal,/en/players/79300479/Martin-Odegaard
+Mikel Merino,es ESP,"MF,FW",29-088,3,2,167.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,3.0,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.07,0.03,0.1,0.07,0.1,Matches,Arsenal,/en/players/d080ed5e/Mikel-Merino
+Bukayo Saka,eng ENG,FW,24-013,2,2,142.0,1.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.3,0.3,0.1,0.4,5.0,2.0,15.0,0.63,0.0,0.63,0.63,0.63,0.16,0.07,0.23,0.16,0.23,Matches,Arsenal,/en/players/bc7dc64d/Bukayo-Saka
+Gabriel Martinelli,br BRA,FW,24-092,3,2,141.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.04,0.01,0.04,Matches,Arsenal,/en/players/48a5a5d6/Gabriel-Martinelli
+Cristhian Mosquera,es ESP,DF,21-083,3,1,203.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/dc1ce4f5/Cristhian-Mosquera
+Eberechi Eze,eng ENG,FW,27-081,2,1,99.0,1.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.5,5.0,4.0,10.0,0.0,0.91,0.91,0.0,0.91,0.05,0.42,0.47,0.05,0.47,Matches,Arsenal,/en/players/ae4fc6a4/Eberechi-Eze
+Ben White,eng ENG,DF,27-345,1,1,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.06,0.07,0.02,0.07,Matches,Arsenal,/en/players/35e413f1/Ben-White
+Ethan Nwaneri,eng ENG,MF,18-181,2,0,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,5.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0,0.12,0.03,0.15,0.12,0.15,Matches,Arsenal,/en/players/7f94982c/Ethan-Nwaneri
+Myles Lewis-Skelly,eng ENG,DF,18-357,3,0,69.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/5dff6c28/Myles-Lewis-Skelly
+Leandro Trossard,be BEL,FW,30-288,2,0,50.0,0.6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,1.0,1.0,4.0,0.0,1.8,1.8,0.0,1.8,0.13,0.23,0.36,0.13,0.36,Matches,Arsenal,/en/players/38ceb24a/Leandro-Trossard
+Kai Havertz,de GER,FW,26-099,1,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Arsenal,/en/players/fed7cb61/Kai-Havertz
+Max Dowman,eng ENG,FW,15-261,2,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,4.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.43,0.43,0.43,Matches,Arsenal,/en/players/9008bb70/Max-Dowman
+Andre Annous,eng ENG,FW,17-265,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/2d14071d/Andre-Annous
+Kepa Arrizabalaga,es ESP,GK,30-350,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/28d596a0/Kepa-Arrizabalaga
+Piero Hincapié,ec ECU,DF,23-252,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/0c7a48f8/Piero-Hincapie
+Jakub Kiwior,pl POL,"DF,MF",25-215,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Arsenal,/en/players/dc3e663e/Jakub-Kiwior
+Squad Total,,,25.7,4,44,360.0,4.0,9.0,6.0,15.0,8.0,1.0,1.0,7.0,0.0,6.2,5.5,3.2,8.6,88.0,145.0,141.0,2.25,1.5,3.75,2.0,3.5,1.56,0.79,2.36,1.36,2.16,,Arsenal,
+Opponent Total,,,26.4,4,44,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,2.4,2.4,1.9,4.2,75.0,110.0,110.0,0.25,0.0,0.25,0.25,0.25,0.6,0.46,1.06,0.6,1.06,,Arsenal,
+Alisson,br BRA,GK,32-351,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/7a2e46a8/Alisson
+Dominik Szoboszlai,hu HUN,"DF,MF",24-328,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.2,0.6,9.0,26.0,12.0,0.25,0.0,0.25,0.25,0.25,0.09,0.05,0.15,0.09,0.15,Matches,Liverpool,/en/players/934e1968/Dominik-Szoboszlai
+Virgil van Dijk,nl NED,DF,34-072,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,8.0,24.0,2.0,0.0,0.0,0.0,0.0,0.0,0.04,0.01,0.05,0.04,0.05,Matches,Liverpool,/en/players/e06683ca/Virgil-van-Dijk
+Cody Gakpo,nl NED,"FW,MF",26-134,4,4,359.0,4.0,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.5,0.5,1.4,1.9,18.0,11.0,39.0,0.25,0.5,0.75,0.25,0.75,0.13,0.34,0.47,0.13,0.47,Matches,Liverpool,/en/players/1971591f/Cody-Gakpo
+Mohamed Salah,eg EGY,"FW,MF",33-095,4,4,359.0,4.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,1.1,0.3,0.5,0.9,14.0,12.0,43.0,0.5,0.25,0.75,0.25,0.5,0.28,0.14,0.41,0.08,0.21,Matches,Liverpool,/en/players/e342ad68/Mohamed-Salah
+Ibrahima Konaté,fr FRA,DF,26-116,4,4,344.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.5,0.5,0.2,0.7,7.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.05,0.18,0.13,0.18,Matches,Liverpool,/en/players/5ed9b537/Ibrahima-Konate
+Florian Wirtz,de GER,MF,22-138,4,4,334.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.6,1.1,11.0,22.0,23.0,0.0,0.0,0.0,0.0,0.0,0.15,0.16,0.31,0.15,0.31,Matches,Liverpool,/en/players/e7fcf289/Florian-Wirtz
+Hugo Ekitike,fr FRA,FW,23-090,4,4,299.0,3.3,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,1.5,1.5,0.3,1.7,5.0,7.0,16.0,0.6,0.3,0.9,0.6,0.9,0.44,0.08,0.52,0.44,0.52,Matches,Liverpool,/en/players/5b92d896/Hugo-Ekitike
+Milos Kerkez,hu HUN,DF,21-315,4,4,276.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.0,0.2,3.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0,0.05,0.01,0.06,0.05,0.06,Matches,Liverpool,/en/players/0ad53bdc/Milos-Kerkez
+Ryan Gravenberch,nl NED,MF,23-125,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.2,0.2,0.3,0.4,8.0,16.0,8.0,0.33,0.0,0.33,0.33,0.33,0.06,0.09,0.15,0.06,0.15,Matches,Liverpool,/en/players/b8e740fb/Ryan-Gravenberch
+Alexis Mac Allister,ar ARG,MF,26-268,3,3,176.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.7,0.8,3.0,9.0,7.0,0.0,0.51,0.51,0.0,0.51,0.04,0.37,0.41,0.04,0.41,Matches,Liverpool,/en/players/83d074ff/Alexis-Mac-Allister
+Curtis Jones,eng ENG,MF,24-231,3,1,138.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Liverpool,/en/players/4fb9c88f/Curtis-Jones
+Jeremie Frimpong,nl NED,DF,24-282,2,1,63.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Liverpool,/en/players/74f2e748/Jeremie-Frimpong
+Andrew Robertson,sct SCO,DF,31-191,2,0,84.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.3,0.4,3.0,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.11,0.35,0.46,0.11,0.46,Matches,Liverpool,/en/players/2e4f5f03/Andrew-Robertson
+Conor Bradley,nir NIR,DF,22-071,2,0,56.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Liverpool,/en/players/bbd67769/Conor-Bradley
+Federico Chiesa,it ITA,FW,27-328,4,0,51.0,0.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,2.0,2.0,2.0,1.76,0.0,1.76,1.76,1.76,0.74,0.0,0.74,0.74,0.74,Matches,Liverpool,/en/players/b0f7e36c/Federico-Chiesa
+Wataru Endo,jp JPN,"MF,DF",32-221,3,0,34.0,0.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,1.0,1.0,0.0,0.0,2.65,2.65,0.0,2.65,0.0,0.29,0.29,0.0,0.29,Matches,Liverpool,/en/players/c149016b/Wataru-Endo
+Joe Gomez,eng ENG,DF,28-118,2,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/7a11550b/Joe-Gomez
+Rio Ngumoha,eng ENG,"MF,FW",17-020,2,0,5.0,0.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.4,4.0,0.0,5.0,18.0,0.0,18.0,18.0,18.0,6.4,1.27,7.67,6.4,7.67,Matches,Liverpool,/en/players/022eca88/Rio-Ngumoha
+Harvey Elliott,eng ENG,"MF,FW",22-167,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,/en/players/b9e1436c/Harvey-Elliott
+Giovanni Leoni,it ITA,DF,18-271,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Liverpool,/en/players/570888ce/Giovanni-Leoni
+Giorgi Mamardashvili,ge GEO,GK,24-354,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Liverpool,/en/players/d4b73232/Giorgi-Mamardashvili
+Trey Nyoni,eng ENG,MF,18-080,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Liverpool,/en/players/1d3b3d77/Trey-Nyoni
+Squad Total,,,27.1,4,44,360.0,4.0,9.0,6.0,15.0,8.0,1.0,1.0,8.0,0.0,6.0,5.3,4.7,10.0,106.0,186.0,185.0,2.25,1.5,3.75,2.0,3.5,1.5,1.19,2.68,1.31,2.5,,Liverpool,
+Opponent Total,,,27.0,4,44,360.0,4.0,4.0,3.0,7.0,4.0,0.0,0.0,8.0,2.0,3.3,3.3,2.5,5.8,53.0,83.0,80.0,1.0,0.75,1.75,1.0,1.75,0.82,0.64,1.46,0.82,1.46,,Liverpool,
+Moisés Caicedo,ec ECU,MF,23-320,4,4,360.0,4.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0,0.4,4.0,25.0,2.0,0.5,0.0,0.5,0.5,0.5,0.1,0.0,0.1,0.1,0.1,Matches,Chelsea,/en/players/16264a81/Moises-Caicedo
+Robert Sánchez,es ESP,GK,27-304,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/6a713852/Robert-Sanchez
+Pedro Neto,pt POR,FW,25-193,4,4,350.0,3.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.5,0.5,0.9,1.4,18.0,14.0,39.0,0.26,0.0,0.26,0.26,0.26,0.14,0.23,0.37,0.14,0.37,Matches,Chelsea,/en/players/7ba2eaa9/Pedro-Neto
+Enzo Fernández,ar ARG,MF,24-244,4,4,348.0,3.9,2.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,1.9,1.1,0.7,1.9,5.0,19.0,16.0,0.52,0.26,0.78,0.26,0.52,0.5,0.19,0.69,0.29,0.48,Matches,Chelsea,/en/players/5ff4ab71/Enzo-Fernandez
+Trevoh Chalobah,eng ENG,DF,26-075,4,4,338.0,3.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0,0.6,6.0,22.0,0.0,0.27,0.0,0.27,0.27,0.27,0.15,0.0,0.15,0.15,0.15,Matches,Chelsea,/en/players/5515376c/Trevoh-Chalobah
+João Pedro,br BRA,"FW,MF",23-357,4,4,330.0,3.7,2.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,1.5,1.5,1.2,2.7,6.0,10.0,26.0,0.55,0.82,1.36,0.55,1.36,0.41,0.33,0.74,0.41,0.74,Matches,Chelsea,/en/players/e8832875/Joao-Pedro
+Marc Cucurella,es ESP,DF,27-058,4,3,293.0,3.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.8,1.0,7.0,17.0,14.0,0.0,0.31,0.31,0.0,0.31,0.05,0.24,0.29,0.05,0.29,Matches,Chelsea,/en/players/1daec722/Marc-Cucurella
+Tosin Adarabioyo,eng ENG,DF,27-359,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/c81d773d/Tosin-Adarabioyo
+Estêvão Willian,br BRA,FW,18-147,3,2,180.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.9,1.9,7.0,3.0,19.0,0.0,0.5,0.5,0.0,0.5,0.49,0.44,0.93,0.49,0.93,Matches,Chelsea,/en/players/2eda11b1/Estevao-Willian
+Malo Gusto,fr FRA,DF,22-122,3,2,170.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12.0,7.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,Chelsea,/en/players/d56b9520/Malo-Gusto
+Jamie Gittens,eng ENG,FW,21-041,4,2,145.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,5.0,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.07,0.09,0.15,0.07,0.15,Matches,Chelsea,/en/players/10745192/Jamie-Gittens
+Liam Delap,eng ENG,FW,22-222,3,2,92.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,Chelsea,/en/players/dd897ee7/Liam-Delap
+Reece James,eng ENG,DF,25-284,4,1,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.5,0.6,4.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,0.04,0.3,0.34,0.04,0.34,Matches,Chelsea,/en/players/1265a93a/Reece-James
+Cole Palmer,eng ENG,MF,23-135,2,1,125.0,1.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.8,0.8,0.0,0.8,9.0,10.0,14.0,0.72,0.0,0.72,0.72,0.72,0.58,0.02,0.6,0.58,0.6,Matches,Chelsea,/en/players/dc7f8a28/Cole-Palmer
+Joshua Acheampong,eng ENG,DF,19-136,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Chelsea,/en/players/b7e62e1d/Joshua-Acheampong
+Wesley Fofana,fr FRA,DF,24-275,2,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/132a82f1/Wesley-Fofana
+Jorrel Hato,nl NED,DF,19-195,2,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,/en/players/bde35051/Jorrel-Hato
+Facundo Buonanotte,ar ARG,MF,20-269,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.51,0.51,0.0,0.51,Matches,Chelsea,/en/players/468a7a91/Facundo-Buonanotte
+Tyrique George,eng ENG,FW,19-226,2,0,112.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,1.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Chelsea,/en/players/e6f7797e/Tyrique-George
+Andrey Santos,br BRA,MF,21-138,3,0,51.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.1,0.4,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.54,0.1,0.65,0.54,0.65,Matches,Chelsea,/en/players/dd745366/Andrey-Santos
+Alejandro Garnacho,ar ARG,FW,21-079,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.66,0.66,0.0,0.66,Matches,Chelsea,/en/players/7aa8adfe/Alejandro-Garnacho
+Dario Essugo,pt POR,MF,20-188,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Chelsea,/en/players/1e4319ac/Dario-Essugo
+Filip Jørgensen,dk DEN,GK,23-155,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Chelsea,/en/players/0107757e/Filip-Jorgensen
+Gaga Slonina,us USA,GK,21-126,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Chelsea,/en/players/c55a846e/Gaga-Slonina
+Squad Total,,,24.4,4,44,360.0,4.0,9.0,6.0,15.0,8.0,1.0,1.0,7.0,0.0,7.7,6.9,5.6,12.5,84.0,175.0,174.0,2.25,1.5,3.75,2.0,3.5,1.92,1.4,3.32,1.73,3.12,,Chelsea,
+Opponent Total,,,27.2,4,44,360.0,4.0,3.0,3.0,6.0,3.0,0.0,0.0,8.0,0.0,3.7,3.7,3.2,6.9,43.0,94.0,92.0,0.75,0.75,1.5,0.75,1.5,0.93,0.8,1.72,0.93,1.72,,Chelsea,
+Nathan Collins,ie IRL,DF,24-141,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.03,0.0,0.03,Matches,Brentford,/en/players/a8c19eb8/Nathan-Collins
+Sepp van den Berg,nl NED,DF,23-272,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,2.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Brentford,/en/players/7bf9400b/Sepp-van-den-Berg
+Caoimhín Kelleher,ie IRL,GK,26-299,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/62d7ef38/Caoimhin-Kelleher
+Yehor Yarmoliuk,ua UKR,MF,21-201,4,4,348.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1,0.2,4.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.03,0.02,0.05,0.03,0.05,Matches,Brentford,/en/players/907a5d7c/Yehor-Yarmoliuk
+Michael Kayode,it ITA,DF,21-070,4,4,346.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,4.0,7.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Brentford,/en/players/e19660a8/Michael-Kayode
+Thiago,br BRA,FW,24-084,4,4,342.0,3.8,2.0,0.0,2.0,1.0,1.0,1.0,2.0,0.0,1.2,0.5,1.1,1.5,4.0,3.0,9.0,0.53,0.0,0.53,0.26,0.26,0.33,0.28,0.61,0.12,0.4,Matches,Brentford,/en/players/dc45ac24/Thiago
+Keane Lewis-Potter,eng ENG,"DF,FW",24-208,4,4,318.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.2,4.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,0.03,0.01,0.05,0.03,0.05,Matches,Brentford,/en/players/41f08ac8/Keane-Lewis-Potter
+Kevin Schade,de GER,FW,23-295,4,3,302.0,3.4,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.6,0.9,0.1,0.9,6.0,1.0,7.0,0.3,0.0,0.3,0.3,0.3,0.49,0.02,0.51,0.26,0.27,Matches,Brentford,/en/players/52afb588/Kevin-Schade
+Jordan Henderson,eng ENG,MF,35-093,4,3,250.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,3.0,12.0,0.0,0.0,0.36,0.36,0.0,0.36,0.01,0.08,0.09,0.01,0.09,Matches,Brentford,/en/players/935e6b8f/Jordan-Henderson
+Dango Ouattara,bf BFA,FW,23-219,3,2,191.0,2.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.9,0.9,0.0,0.9,5.0,0.0,9.0,0.47,0.0,0.47,0.47,0.47,0.4,0.0,0.4,0.4,0.4,Matches,Brentford,/en/players/2f9e4435/Dango-Ouattara
+Mikkel Damsgaard,dk DEN,MF,25-077,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.4,0.5,6.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.03,0.21,0.24,0.03,0.24,Matches,Brentford,/en/players/215f3907/Mikkel-Damsgaard
+Mathias Jensen,dk DEN,MF,29-260,3,2,152.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.08,0.11,0.19,0.08,0.19,Matches,Brentford,/en/players/0f134faf/Mathias-Jensen
+Rico Henry,eng ENG,DF,28-072,4,1,131.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1,0.3,9.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,0.18,0.09,0.18,Matches,Brentford,/en/players/8a3c1dc7/Rico-Henry
+Fabio Carvalho,pt POR,"FW,MF",23-019,3,1,92.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.7,0.7,0.0,0.7,2.0,2.0,5.0,0.98,0.0,0.98,0.98,0.98,0.68,0.0,0.68,0.68,0.68,Matches,Brentford,/en/players/966e28d0/Fabio-Carvalho
+Ethan Pinnock,jm JAM,DF,32-112,1,1,82.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/e541326e/Ethan-Pinnock
+Antoni Milambo,nl NED,MF,20-168,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/b05f4787/Antoni-Milambo
+Frank Onyeka,ng NGA,MF,27-260,3,0,64.0,0.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,2.0,1.0,1.0,0.0,1.41,1.41,0.0,1.41,0.0,0.17,0.17,0.0,0.17,Matches,Brentford,/en/players/2944f86f/Frank-Onyeka
+Aaron Hickey,sct SCO,"DF,FW",23-100,3,0,23.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,/en/players/1780bb4a/Aaron-Hickey
+Kristoffer Ajer,no NOR,DF,27-154,2,0,14.0,0.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.0,1.0,0.0,0.0,6.43,6.43,0.0,6.43,0.26,4.31,4.57,0.26,4.57,Matches,Brentford,/en/players/a8c0acb7/Kristoffer-Ajer
+Benjamin Arthur,eng ENG,DF,19-344,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/093f0923/Benjamin-Arthur
+Vitaly Janelt,de GER,MF,27-131,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/8449d35e/Vitaly-Janelt
+Reiss Nelson,eng ENG,"FW,MF",25-282,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/c5bdb6e3/Reiss-Nelson
+Myles Peart-Harris,eng ENG,MF,23-000,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/ea1a5662/Myles-Peart-Harris
+Mads Roerslev,dk DEN,"DF,MF",26-086,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/57c94db2/Mads-Roerslev
+Hákon Valdimarsson,is ISL,GK,23-340,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford,/en/players/57a34cf4/Hakon-Valdimarsson
+Squad Total,,,25.1,4,44,360.0,4.0,5.0,3.0,8.0,4.0,1.0,2.0,8.0,0.0,5.2,3.7,3.3,7.0,54.0,79.0,78.0,1.25,0.75,2.0,1.0,1.75,1.3,0.82,2.12,0.92,1.74,,Brentford,
+Opponent Total,,,26.4,4,44,360.0,4.0,7.0,4.0,11.0,6.0,1.0,1.0,8.0,0.0,5.8,5.0,4.3,9.3,88.0,176.0,174.0,1.75,1.0,2.75,1.5,2.5,1.44,1.08,2.53,1.25,2.33,,Brentford,
+Altay Bayındır,tr TUR,GK,27-157,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Manchester United,/en/players/072e68ed/Altay-Bayindir
+Bruno Fernandes,pt POR,MF,31-010,4,4,360.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,1.9,0.4,1.2,1.6,9.0,40.0,10.0,0.25,0.0,0.25,0.0,0.0,0.48,0.31,0.79,0.09,0.4,Matches,Manchester United,/en/players/507c7bdf/Bruno-Fernandes
+Matthijs de Ligt,nl NED,DF,26-037,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2,0.5,1.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.08,0.05,0.13,0.08,0.13,Matches,Manchester United,/en/players/d6e53a3a/Matthijs-de-Ligt
+Bryan Mbeumo,cm CMR,MF,26-042,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.7,1.7,1.3,3.1,17.0,11.0,40.0,0.25,0.0,0.25,0.25,0.25,0.44,0.33,0.77,0.44,0.77,Matches,Manchester United,/en/players/6afaebf2/Bryan-Mbeumo
+Luke Shaw,eng ENG,DF,30-068,4,4,345.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,6.0,23.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02,Matches,Manchester United,/en/players/9c94165b/Luke-Shaw
+Leny Yoro,fr FRA,DF,19-309,4,4,321.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,4.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.08,0.07,0.08,Matches,Manchester United,/en/players/6763f716/Leny-Yoro
+Patrick Dorgu,dk DEN,DF,20-327,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1,0.4,10.0,5.0,30.0,0.0,0.0,0.0,0.0,0.0,0.08,0.05,0.13,0.08,0.13,Matches,Manchester United,/en/players/e6536124/Patrick-Dorgu
+Amad Diallo,ci CIV,"DF,MF",23-069,4,3,267.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.9,0.7,1.6,19.0,13.0,25.0,0.0,0.0,0.0,0.0,0.0,0.29,0.24,0.53,0.29,0.53,Matches,Manchester United,/en/players/9dc96f10/Amad-Diallo
+Matheus Cunha,br BRA,"FW,MF",26-114,3,3,210.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.2,1.0,8.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0,0.35,0.07,0.42,0.35,0.42,Matches,Manchester United,/en/players/dc62b55d/Matheus-Cunha
+Casemiro,br BRA,MF,33-207,4,3,198.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6,0.6,0.1,0.7,0.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0,0.28,0.04,0.32,0.28,0.32,Matches,Manchester United,/en/players/4d224fe8/Casemiro
+Mason Mount,eng ENG,MF,26-251,3,3,177.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.4,0.6,3.0,12.0,7.0,0.0,0.0,0.0,0.0,0.0,0.09,0.19,0.29,0.09,0.29,Matches,Manchester United,/en/players/9674002f/Mason-Mount
+Diogo Dalot,pt POR,DF,26-184,3,2,183.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,10.0,6.0,19.0,0.0,0.49,0.49,0.0,0.49,0.01,0.37,0.38,0.01,0.38,Matches,Manchester United,/en/players/d9565625/Diogo-Dalot
+Benjamin Šeško,si SVN,FW,22-110,4,1,162.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,1.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.23,0.03,0.26,0.23,0.26,Matches,Manchester United,/en/players/3260690c/Benjamin-Sesko
+Manuel Ugarte,uy URU,MF,24-160,3,1,127.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,3.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.03,0.02,0.06,0.03,0.06,Matches,Manchester United,/en/players/c9817014/Manuel-Ugarte
+Noussair Mazraoui,ma MAR,DF,27-308,2,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester United,/en/players/b74277a0/Noussair-Mazraoui
+Kobbie Mainoo,eng ENG,MF,20-152,2,0,74.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,3.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.08,0.17,0.25,0.08,0.25,Matches,Manchester United,/en/players/c6220452/Kobbie-Mainoo
+Joshua Zirkzee,nl NED,"FW,MF",24-119,2,0,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0,0.7,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.82,0.06,0.88,0.82,0.88,Matches,Manchester United,/en/players/028e70b9/Joshua-Zirkzee
+Harry Maguire,eng ENG,DF,32-197,3,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Manchester United,/en/players/d8931174/Harry-Maguire
+Ayden Heaven,eng ENG,DF,18-361,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester United,/en/players/64e17fab/Ayden-Heaven
+Tyler Fredricson,eng ENG,DF,20-207,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/58630379/Tyler-Fredricson
+Tom Heaton,eng ENG,GK,39-156,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/a6de6361/Tom-Heaton
+Senne Lammens,be BEL,GK,23-073,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/8e6d2fcd/Senne-Lammens
+Diego León,py PAR,DF,18-168,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/69ea448b/Diego-Leon
+André Onana,cm CMR,GK,29-169,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester United,/en/players/e9c0c1b2/Andre-Onana
+Squad Total,,,26.1,4,44,360.0,4.0,2.0,1.0,3.0,1.0,1.0,2.0,3.0,0.0,7.9,6.3,5.3,11.6,98.0,180.0,180.0,0.5,0.25,0.75,0.25,0.5,1.98,1.33,3.31,1.58,2.91,,Manchester United,
+Opponent Total,,,26.7,4,44,360.0,4.0,7.0,5.0,12.0,7.0,0.0,0.0,10.0,0.0,6.9,6.9,5.0,11.9,58.0,110.0,107.0,1.75,1.25,3.0,1.75,3.0,1.73,1.25,2.98,1.73,2.98,,Manchester United,
+Joachim Andersen,dk DEN,DF,29-110,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.7,0.9,5.0,22.0,1.0,0.0,0.0,0.0,0.0,0.0,0.05,0.17,0.22,0.05,0.22,Matches,Fulham,/en/players/e34fc66d/Joachim-Andersen
+Calvin Bassey,ng NGA,DF,25-261,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,7.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Fulham,/en/players/a36524bf/Calvin-Bassey
+Bernd Leno,de GER,GK,33-198,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,/en/players/2628fd2b/Bernd-Leno
+Saša Lukić,rs SRB,MF,29-036,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.5,0.5,0.6,1.1,7.0,9.0,13.0,0.0,0.0,0.0,0.0,0.0,0.13,0.15,0.27,0.13,0.27,Matches,Fulham,/en/players/c6e8cf1f/Sasa-Lukic
+Kenny Tete,nl NED,DF,29-344,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,6.0,18.0,6.0,0.0,0.0,0.0,0.0,0.0,0.02,0.03,0.05,0.02,0.05,Matches,Fulham,/en/players/77d7c96f/Kenny-Tete
+Sander Berge,no NOR,MF,27-216,4,4,328.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.2,0.7,2.0,17.0,2.0,0.0,0.0,0.0,0.0,0.0,0.11,0.07,0.18,0.11,0.18,Matches,Fulham,/en/players/d0b6129f/Sander-Berge
+Alex Iwobi,ng NGA,FW,29-138,4,4,313.0,3.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,1.0,1.2,19.0,24.0,21.0,0.0,0.29,0.29,0.0,0.29,0.03,0.3,0.33,0.03,0.33,Matches,Fulham,/en/players/6ca5ec4b/Alex-Iwobi
+Joshua King,eng ENG,MF,18-258,4,4,271.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,7.0,15.0,18.0,0.0,0.0,0.0,0.0,0.0,0.13,0.03,0.16,0.13,0.16,Matches,Fulham,/en/players/86109b3b/Joshua-King
+Rodrigo Muniz,br BRA,FW,24-137,4,3,237.0,2.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.8,0.8,0.1,0.9,0.0,2.0,5.0,0.38,0.0,0.38,0.38,0.38,0.31,0.02,0.33,0.31,0.33,Matches,Fulham,/en/players/a755db8c/Rodrigo-Muniz
+Ryan Sessegnon,eng ENG,DF,25-123,3,3,217.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,6.0,8.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.28,0.28,0.0,0.28,Matches,Fulham,/en/players/6aa3e78b/Ryan-Sessegnon
+Harry Wilson,wls WAL,FW,28-180,4,2,209.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,4.0,2.0,18.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Fulham,/en/players/c6dc9ecd/Harry-Wilson
+Timothy Castagne,be BEL,"FW,DF",29-287,3,2,127.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,1.0,3.0,10.0,0.0,0.0,0.0,0.0,0.0,0.27,0.06,0.33,0.27,0.33,Matches,Fulham,/en/players/197640fd/Timothy-Castagne
+Raúl Jiménez,mx MEX,FW,34-136,4,1,123.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.29,0.29,0.29,Matches,Fulham,/en/players/b561db50/Raul-Jimenez
+Jorge Cuenca,es ESP,DF,25-305,1,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,/en/players/0abc51f2/Jorge-Cuenca
+Emile Smith Rowe,eng ENG,"MF,FW",25-052,4,0,89.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.8,0.8,0.0,0.8,1.0,4.0,8.0,1.01,0.0,1.01,1.01,1.01,0.8,0.03,0.83,0.8,0.83,Matches,Fulham,/en/players/17695062/Emile-Smith-Rowe
+Adama Traoré,es ESP,FW,29-236,3,0,63.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,5.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.06,0.1,0.16,0.06,0.16,Matches,Fulham,/en/players/9a28eba4/Adama-Traore
+Antonee Robinson,us USA,DF,28-041,2,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Fulham,/en/players/289601e6/Antonee-Robinson
+Tom Cairney,sct SCO,MF,34-241,2,0,32.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,/en/players/a8748947/Tom-Cairney
+Kevin,br BRA,FW,22-257,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.11,0.27,0.38,0.11,0.38,Matches,Fulham,/en/players/93508980/Kevin
+Issa Diop,fr FRA,DF,28-252,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/a712ca2b/Issa-Diop
+Benjamin Lecomte,fr FRA,GK,34-145,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/2fa2a875/Benjamin-Lecomte
+Andreas Pereira,br BRA,MF,29-260,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/6639e500/Andreas-Pereira
+Harrison Reed,eng ENG,MF,30-234,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Fulham,/en/players/803ae100/Harrison-Reed
+Squad Total,,,28.0,4,44,360.0,4.0,2.0,1.0,3.0,2.0,0.0,0.0,7.0,0.0,4.4,4.4,3.7,8.1,76.0,146.0,143.0,0.5,0.25,0.75,0.5,0.75,1.09,0.93,2.01,1.09,2.01,,Fulham,
+Opponent Total,,,25.8,4,44,360.0,4.0,3.0,1.0,4.0,1.0,2.0,3.0,8.0,0.0,6.0,3.6,3.2,6.8,62.0,134.0,133.0,0.75,0.25,1.0,0.25,0.5,1.5,0.8,2.3,0.91,1.71,,Fulham,
+Joe Rodon,wls WAL,DF,27-331,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/8d62d31a/Joe-Rodon
+Anton Stach,de GER,MF,26-307,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.5,0.5,0.8,1.3,8.0,23.0,9.0,0.0,0.0,0.0,0.0,0.0,0.13,0.2,0.33,0.13,0.33,Matches,Leeds United,/en/players/0f59a7bf/Anton-Stach
+Pascal Struijk,nl NED,DF,26-038,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.01,0.06,0.05,0.06,Matches,Leeds United,/en/players/f4d296e4/Pascal-Struijk
+Jayden Bogle,eng ENG,DF,25-053,4,4,352.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1,0.2,16.0,10.0,14.0,0.0,0.0,0.0,0.0,0.0,0.04,0.01,0.06,0.04,0.06,Matches,Leeds United,/en/players/ae5019e6/Jayden-Bogle
+Gabriel Gudmundsson,se SWE,DF,26-142,4,4,349.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.3,0.5,9.0,12.0,14.0,0.0,0.0,0.0,0.0,0.0,0.04,0.08,0.12,0.04,0.12,Matches,Leeds United,/en/players/d5d22a58/Gabriel-Gudmundsson
+Lucas Perri,br BRA,GK,27-282,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/5dbd461a/Lucas-Perri
+Daniel James,wls WAL,FW,27-312,4,3,213.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.3,0.7,8.0,5.0,17.0,0.0,0.0,0.0,0.0,0.0,0.18,0.12,0.3,0.18,0.3,Matches,Leeds United,/en/players/c931d9f9/Daniel-James
+Wilfried Gnonto,it ITA,FW,21-317,4,3,192.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1,0.3,4.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,0.08,0.04,0.12,0.08,0.12,Matches,Leeds United,/en/players/75fdd638/Wilfried-Gnonto
+Sean Longstaff,eng ENG,MF,27-323,4,2,214.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.04,0.02,0.04,Matches,Leeds United,/en/players/a2b105e0/Sean-Longstaff
+Ilia Gruev,bg BUL,MF,25-135,3,2,193.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/1fc4f3d1/Ilia-Gruev
+Ethan Ampadu,wls WAL,MF,25-004,2,2,167.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/10b9fa99/Ethan-Ampadu
+Ao Tanaka,jp JPN,MF,27-008,2,2,146.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1,0.2,1.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.06,0.07,0.13,0.06,0.13,Matches,Leeds United,/en/players/1d36d6b6/Ao-Tanaka
+Joël Piroe,nl NED,FW,26-047,2,2,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,Leeds United,/en/players/1f0072a6/Joel-Piroe
+Brenden Aaronson,us USA,FW,24-331,4,1,156.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5,0.7,2.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.08,0.31,0.39,0.08,0.39,Matches,Leeds United,/en/players/5bc43860/Brenden-Aaronson
+Lukas Nmecha,de GER,FW,26-278,4,1,137.0,1.5,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.9,0.2,0.0,0.2,1.0,1.0,7.0,0.66,0.0,0.66,0.0,0.0,0.59,0.0,0.59,0.12,0.12,Matches,Leeds United,/en/players/0cc5f4a5/Lukas-Nmecha
+Noah Okafor,ch SUI,FW,25-117,2,1,93.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.2,3.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.17,0.02,0.19,0.17,0.19,Matches,Leeds United,/en/players/ca607d59/Noah-Okafor
+Karl Darlow,wls WAL,GK,34-345,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/cde3309f/Karl-Darlow
+Dominic Calvert-Lewin,eng ENG,FW,28-186,2,1,89.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.38,0.04,0.42,0.38,0.42,Matches,Leeds United,/en/players/59e6e5bf/Dominic-Calvert-Lewin
+Jack Harrison,eng ENG,FW,28-302,3,0,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/aa849a12/Jack-Harrison
+James Justin,eng ENG,DF,27-207,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/fb614c44/James-Justin
+Sam Byram,eng ENG,DF,32-002,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Leeds United,/en/players/1bf811d4/Sam-Byram
+Jaka Bijol,si SVN,"DF,MF",26-225,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/6fdac234/Jaka-Bijol
+Sebastiaan Bornauw,be BEL,DF,26-180,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/01834aa0/Sebastiaan-Bornauw
+Illan Meslier,fr FRA,GK,25-200,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/6b625ac2/Illan-Meslier
+Largie Ramazani,be BEL,"FW,MF",24-203,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Leeds United,/en/players/cc9256ef/Largie-Ramazani
+Squad Total,,,26.6,4,44,360.0,4.0,1.0,0.0,1.0,0.0,1.0,1.0,5.0,0.0,3.7,2.9,2.3,5.2,60.0,109.0,108.0,0.25,0.0,0.25,0.0,0.0,0.91,0.57,1.48,0.74,1.31,,Leeds United,
+Opponent Total,,,27.2,4,44,360.0,4.0,5.0,4.0,9.0,4.0,1.0,1.0,4.0,0.0,4.8,4.0,2.7,6.7,74.0,164.0,161.0,1.25,1.0,2.25,1.0,2.0,1.2,0.68,1.88,1.0,1.68,,Leeds United,
